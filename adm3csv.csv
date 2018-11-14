@@ -1,0 +1,5752 @@
+SSec_Code,SSec_Name_E
+010101,El Tebin El Bahareya
+010102,El Tebin El Qebleya
+010103,Hakr El Tebin
+010104,El Solb City
+010105,Masaken El Tebin El Shabeya
+010201,
+010202,Helwan El Baharia
+010203,
+010204,
+010205,
+010206,Helwan El Keblia
+010207,Kafer El Elo
+010208,Ain Helwan
+010301,El Masara El Balad
+010302,
+010303,
+010304,
+010401,El Sheyakha El Ola
+010402,
+010403,
+010501,
+010502,
+010503,Tora El Heet - Kotseka Prev
+010504,Tora El Asmant
+010505,Manshyet El Masry
+010506,El Zahraa
+010601,Mady El Khabiry El Sharkaia
+010602,Mady El Khabiry El Gharbaia
+010603,Mady El Khabiry El Wasty
+010604,Mady El Saraiat El Sharkaia
+010605,Maadi El Sarayat El Gharbia
+010701,El Basateen
+010702,Gebreal
+010703,El Maadi El Gededa
+010801,Dar El Salam
+010802,El Eisawia
+010803,Nafea
+010901,
+010902,
+010903,
+010904,
+010905,El Deiora
+010906,El Rawda & El Meqias
+010907,
+010908,El Manial El Sharky
+010909,El Manial El Gharby
+010910,Ain El Seira
+010911,
+010912,Kom Ghorab
+011001,
+011002,El Baghala
+011003,El Hanafy
+011004,El Darb El Gidid
+011005,El Sabaien
+011006,El Saiada
+011007,El Atreas
+011008,El Eainy
+011009,El Kabesh
+011010,Hadaeik Zeinhom
+011011,Khairat
+011012,Darb El Gamamez
+011013,Zenhom
+011014,Sonkor
+011015,Tolon
+011101,El Abagia
+011102,El Amameen
+011103,El Baqly
+011104,El Tonsy
+011105,El Hataba
+011106,El Halmaia
+011107,El Khalifa
+011108,
+011109,El Saliba
+011110,El Kaderia
+011111,El Mahger
+011112,Darb El Hasr
+011113,Darb Ghazia
+011114,Arab El Yasar
+011201,El Moqatam
+011202,El Ahyaa
+011203,El Nasr
+011204,El Sharq Leltameen
+011205,El Giza
+011206,El Said
+011207,El Sabeen Fadan
+011208,Sobhy Hussein
+011209,Atlas G
+011210,El Abd
+011301,El Khazan
+011302,El Maadasa
+011303,El Mahager
+011304,El Soltan Barquq
+011305,El Mogawren
+011306,Qaitbay
+011307,Monshaet Naser
+011308,Masaken Suzan Mubarak El Gededa
+011401,El Batnia
+011402,El Dwadia
+011403,El Darb El Ahmr
+011404,El Srogia
+011405,El Omary
+011406,El Ghoria
+011407,El Karbia
+011408,El Meghrblin
+011409,
+011410,Tahet El Rabea
+011411,
+011412,Darb Saada
+011413,Darb Shaalan
+011414,Sooq El Selah
+011501,El Ramly
+011502,El Sheikh Nada - Darb Mustafa Prev
+011503,El Tamar
+011504,El Ashmawy
+011505,El Lewaa Amin El Shereif - Darb El Mahabel Prev
+011506,El Manasra
+011507,El Nouby
+011508,Darb El Genena
+011509,Safy El Dine
+011510,Kom El Shaikh Salama
+011601,El Balaqsa
+011602,
+011603,El Dwaween
+011604,El Saha
+011605,El Saqaien
+011606,El Sheikh Abd Allah
+011607,El Fawala
+011608,Bab El Louk
+011609,Rahbet Abdeen
+011610,Ghait El Adaa
+011701,El Ismailia
+011702,Garden City
+011703,Qasr El Dobara
+011704,Marouf
+011801,Abo El Fada
+011802,El Gabalaia
+011803,Omar El Khaiam
+011804,Mohamed Mazhar
+011901,Abo El Ela
+011902,El Ahmadine
+011903,El Torgoman
+011904,El Galadine
+011905,El Gawaber
+011906,El Khateery
+011907,El Sabtia
+011908,
+011909,El Sheikh Ali
+011910,El Shaikh Farag
+011911,El Adawaia
+011912,El Olemy - El Faransawy Prev
+011913,El Alaya
+011914,Hod El Zehour
+011915,Darb Nasr
+011916,Sanan Basha
+011917,Souq El Asr
+011918,Sharkas
+011919,Ashash El Nakhl
+012001,El Gaiara
+012002,
+012003,El Zahar
+012004,El Fagala
+012005,El Kabilaya
+012006,El Olaly
+012007,Orabi - El Tawfeqia Prev
+012008,Klot Bik
+012101,El Banhawy
+012102,El Shembky
+012103,El Sawby
+012104,El Adawy
+012105,El Mansy
+012106,El Nasr
+012107,Bab El Bahr
+012108,Bab El Sharia
+012109,Berket El Ratly
+012110,Darb El Akmaia
+012111,Sedy Madien
+012201,El Azhar
+012202,El Beer Kodar
+012203,El Gamalaia
+012204,El Hamzawy
+012205,El Khoranfesh
+012206,El Khwas
+012207,El Darasa
+012208,El Shearany
+012209,El Atoof
+012210,El Kordi
+012211,El Mashd El Hoseny
+012212,El Mansoria
+012213,Bab El Fotoh
+012214,Bin El Soreen
+012215,Gawhar El Kaed - El Yahood El Roban Previous
+012216,Khan El Khlily
+012217,Qasr El Shook
+012301,Abo Khoda
+012302,El Ganzory
+012303,El Sakakeny
+012304,El Zaher
+012305,El Kebasy
+012306,Ghamra
+012401,El Demerdash
+012402,El Zafaran
+012403,El Saraiat
+012404,
+012405,
+012406,
+012407,
+012408,
+012409,Bain El Ganaien
+012410,
+012411,
+012412,Kobry El Koba
+012501,El Hadaaek
+012502,El Khasa
+012503,El Kobaa
+012504,El Waily El Kabeir Shark
+012505,El Waily El Kabeir Gharb
+012506,Hadaeik El Koba
+012507,
+012508,Mansheyet El Sadr
+012601,El Shrabia
+012602,El Azab
+012603,El Zawia El Hamra El Balad
+012604,Mahmasha
+012701,
+012702,El Shamashergy
+012703,El Atar
+012704,Gesr Shubra
+012801,Ibn El Rashid
+012802,El Mabyada
+012803,Gaziret Badran
+012804,Rod El Farg El Balad
+012805,Toson
+012806,Qosor El Shawam
+012901,Asaad
+012902,El Barad
+012903,El Khazendara
+012904,El Sahel
+012905,Borham
+012906,Shrief
+012907,Manih El Serg
+013001,El Zawya El Hamraa Masken
+013002,El Ameria El Balad
+013101,
+013102,
+013103,
+013104,Nasser
+013105,
+013106,Morsy Khalil El Gadeda
+013107,El Qafaseen
+013108,Masaken El Saudia
+013201,El Zayton El Baharaia
+013202,El Zayton El Qablaia
+013203,El Zayton El Sharkaia
+013204,El Zayton El Gharbaia
+013301,El Azab
+013302,
+013303,
+013304,
+013305,Shagret Mariem
+013306,Arab Abo Tawila
+013307,Arab El Hesn
+013308,Ain Shams El Gharbaia
+013309,
+013401,
+013402,Helmeit El Zaiton
+013403,Helmeit El Naam
+013404,Tolembat Ain Shamas
+013405,Ain Shamas El Sharkaia
+013406,Mansheyet El Tahrer
+013501,El Marg El Baharea
+013502,El Marg El Kablaya
+013503,Berket El Hag
+013504,
+013505,Kafr Abu Seer - Berket El Nasr
+013506,Kafr El Basha
+013507,Kafr El Shorafa
+013601,El Salam El Sharkaia
+013602,El Salam El Gharbaia
+013603,
+013701,
+013702,
+013703,
+013704,
+013705,
+013801,El Nozhah
+013802,El Haykestab
+013803,El Matar
+013804,Sheraton El Matar
+013901,El Bostan
+013902,Almaza
+013903,El Montaza
+013904,Manshyet El Bakry
+014001,El Tawfek
+014002,El Sharekat
+014003,El Golf
+014004,El Nady El Ahly
+014005,
+014006,
+014007,El Hay El Asher
+014008,El Manteka El Ola
+014009,
+014010,
+014011,
+014012,
+014013,
+014014,
+014015,
+014016,
+014017,Masaken El Mohandesen
+014018,El Cinema area
+014019,El Zahraa
+014101,El Hay El Sabea
+014102,El Hay El Sades
+014103,El Astad
+014104,El Sarayat El Sharqia
+014105,Gameat El Azhar
+014106,Ezbet El Arab
+014107,Nady El Saka El Haded
+014201,El tagamoa El khames
+014202,El Narges El Mostathmereen El Ganobia
+014203,
+014204,
+014301,
+014302,
+014303,
+014401,El Qatamia
+014402,eskan mubarak
+014403,El Ansheta
+014404,
+014405,El Andalous
+014501,el sherouk1
+014502,el sherouk2
+014503,Madient El Dobaat
+014601,Badr 1
+014602,
+014603,El Hay El Thany & Manteqet El Emtedad El Mostaqbaly
+014604,
+014605,El Hay El Rabea
+014606,El Hay El Motamayez
+014607,
+014608,
+019999,
+020101,El Tawfiqeyah
+020102,El Siouf Bahary
+020103,
+020104,El Qerdahy
+020105,
+020106,El Mohagrein
+020107,Khorshed El Baharia
+020108,Sedi Beshr Bahary
+020109,Sayedy Beshr El Qably
+020201,El Mandarah Bahary
+020202,El Mandara Qably
+020204,El Amrawy
+020205,El Nasereyah
+020206,Tolombat El Tabia
+020208,Abo Kear El Gharbaia
+020301,El Qaasy Bahary
+020302,Zoarobanah
+020303,Bakos
+020304,San Stefano
+020305,Fleming
+020401,Abes El Thania
+020402,El Zahria
+020403,El Qassy Qebly
+020404,El Mahrosa
+020405,Hagar El Nawatia
+020406,Khorshed
+020407,
+020408,Dana
+020501,Abo El Nwater
+020502,El Rayada
+020503,Seedy Gaber
+020504,
+020505,Ezbet Saad
+020506,
+020601,
+020602,
+020603,El Azareta & El Shatby
+020604,
+020605,
+020606,Ezbet El Gameaa
+020701,
+020702,El Ataren Shark
+020703,El Ataren Gharb
+020704,
+020705,El Mesala Shark
+020706,El Mesala Gharb - Sherif Basha
+020707,Kom El Daka Shark
+020708,Kom El Daka Gharb
+020801,El Bab El Gidid Shark
+020802,El Bab El Gidid Gharb And Mansha
+020803,
+020804,Ambrouz
+020805,
+020806,Ragheb Basha
+020807,Abes 7.8.10
+020901,
+020902,Bab Sedrah El Barany Sharq
+020903,Bab Sedrah El Barany Gharb
+020905,Gamea Soltan
+020906,Ghait El Enab Shark
+020907,Ghait El Enab Gharb
+020908,Karmouz Shark
+020909,Karmouz Gharb
+020910,Nobar
+020911,
+021001,El Godd & El Laban - El Warsha
+021002,
+021003,
+021004,
+021005,
+021006,El Sabora
+021007,El Naga El Gidid
+021008,El Naga El Kadeim
+021009,
+021011,
+021012,Souq El Gomaah & El Monir
+021013,Meshmsh El Basal
+021101,
+021102,El Hamameil
+021103,Souq El Barseim
+021104,El Magharia & Souq El Tork
+021201,Abo Shosha
+021202,El Berkah
+021203,El Balkatria
+021204,El Tarmazaia
+021205,
+021206,
+021208,El Saiala Gharb
+021209,El Shamarly & Zawyet El Aarag
+021210,El Saiaden
+021211,El Mazar
+021212,
+021213,
+021214,Ras El Tein
+021215,
+021216,Zawiet Khatab
+021217,Souq El Samak El Kadeim
+021218,Sefr Basha
+021219,Kabw El Malah
+021301,
+021401,
+021402,El Amoud - Amoud El Sawary
+021403,El Metras - Um Kebeba
+021404,El Qabary Sharq
+021405,El Wardian Shark
+021406,El Wardian Gharb
+021407,
+021408,Koum El Shoqafa Gharb
+021409,El Mafrouza
+021410,El Qabary Gharb
+021411,Tabeit Saleh
+021412,Koum El Shoqafa Sharq
+021503,El Dakhila
+021504,
+021505,El Meks
+021601,El Amraia Shark
+021602,El Amraia Gharb
+021603,El Zeraa El Bahary
+021604,El Agamy El Qablaia - Um Zaghuo
+021606,Zawiet Abd El Kader
+021607,El Metras - Um Kebeba
+021609,Merghem
+021701,Kingy Mariout
+021702,El Hawaria
+021705,
+021801,Borg El Arab City
+021802,Abo Seer
+021803,El Gewra
+021804,El Zeraa El Bahary
+021805,El Snaqra
+021806,El Gharbaniat
+021807,Bahig
+021808,Hemlis
+021809,El Nahda
+021901,
+022001,Manteqet El Sahel E Shamaly
+029999,
+030101,Ibrahim Hasanen - El Afrang Sharq Prev
+030102,Mustafa Hamza - El Afrang Gharb Prev
+030201,Abo El Hassan
+030202,El Tawfeqy
+030203,El Abasy
+030204,El Azab
+030205,El Montazha Saad A
+030301,El Galah
+030302,El Saray
+030303,El Manakh
+030304,Adly
+030401,El Salam
+030402,El Qaboty
+030403,Bank El Eskan
+030501,El Zehour
+030601,El Manasra
+030701,
+030801,
+030901,Portfoaud City
+031001,Than Portfoaud
+031101,Mubarak - Sharq El Tafreah
+031201,
+040101,Sheiakha Ola
+040102,
+040201,
+040202,
+040301,
+040302,
+040303,El Atka
+040304,El Adabia
+040305,El Hadaid
+040306,El Sadat
+040307,Agrud
+040308,
+040309,Ghebet El Bous & Deer Odeeb
+040310,
+040311,
+040401,
+040501,
+040601,
+049999,Surrounded By Desert To Suez Governorate
+110101,Sheiakha Ola
+110102,Sheyakhet Than
+110201,Sheyakha Thaleth
+110202,Sheyakhet Rabea
+110301,
+110302,El Bostan & Kafr Tabekha
+110303,El Khalifeyah
+110304,El Senaneyah
+110305,El Adlaia
+110306,El Ananeyah
+110307,Awlad Hamam
+110308,Shata
+110309,Shat El Kheyatah
+110310,Shat El Shoara
+110311,Shat El Sheikh Dorgham
+110312,Shat Garibah
+110313,Shat Izbet El Lahm
+110314,Shat Gheit El Nadara
+110315,Shat Moheb & El Sayala
+110316,Ezab El Basartah
+110317,Ezab El Nahdah
+110401,Faraskour City
+110402,
+110403,El Arbeen
+110404,El Barasheyah
+110405,El Horany
+110406,El Rahamnah
+110407,El Salmeyah
+110408,El Dahrah
+110409,El Tarhah
+110410,El Abideyah
+110411,El Azazma
+110412,El Atwy
+110413,El Ghanimeyah
+110414,El Ghawabin
+110415,El Nasereyah
+110416,Abo Garidah
+110417,El Nagarin
+110418,Awlad Khalaf
+110419,Hegaga
+110420,Sherbas
+110421,Kafr El Shenawy
+110422,Kafr El Arab
+110423,Monshaet Karam & Rozoq
+110424,Meet El Sheyoukh
+110425,Kafr El Ghawaben
+110501,El Zarqa City
+110502,El Sarw City
+110503,El Zatrah
+110504,El Salam
+110505,El Kashef El Gadidah
+110506,Daqahlah
+110507,Seif El Din
+110508,Sharmasah
+110509,Kafr El Mayasra
+110510,Kafr Toqa
+110511,Meet El Kholy Abd Ellah
+110512,El Baz
+110601,Kafr Saad City
+110602,Meet Abu Ghaleb City
+110603,Abu Ayad
+110604,El Ismailia
+110605,
+110606,
+110607,El Badrawy
+110608,El Tawfiqeyah
+110609,El Dahayma
+110610,El Zahraa
+110611,
+110612,
+110613,El Sawalem
+110614,El Abasia
+110615,El Mohamadia
+110616,Dar El Salam
+110617,Um El Rezq
+110618,Kafr Saad El Balad
+110619,Kafr El Morabein El Sharqeyah
+110620,Kafr El Manazlah
+110621,Kafr El Wostany
+110622,Kafr Soliman El Bahary
+110623,Kfour El Ghab - Belqas Qesm 2Nd Previous
+110624,Kofour Shehata
+110625,Monshaet Naser
+110626,El Hesenia
+110627,Abu Rashed
+110628,El Nawasria
+110629,El Louzy
+110630,Taftesh Than
+110701,Kafr El Batekh City
+110702,El Basateen
+110703,El Sawahel
+110704,El Reyad
+110705,Koheel
+110706,Um El Reda
+110707,Um El Reda El Gededa
+110708,El Rakabeyah
+110709,Gamasa
+110801,
+110901,New Domiat Port
+111001,Ras El Bar City
+119999,Surrounded By Desert To Domiat Governorate
+120101,Qesm Awal Meet Talkha
+120102,Qesm Than El Hewar
+120103,Qesm Thaleth Rehan
+120104,Qesm Rabea El Nagar
+120105,Sandoub & Kafr El Manasrah
+120201,Qesm Khames Siyam
+120202,Qesm Sades Meet Hedr
+120203,Qesm 7th El Baher El Sagher
+120204,Qesm El Mansouria - Taweel Prev
+120205,Qesm Kafr El Badmas
+120206,Gadela
+120207,Kolengel
+120301,El Badelah
+120302,El Baramon
+120303,El Baqleyah
+120304,El Bandera
+120305,El Hawawshah
+120306,El Khelig
+120307,El Kheyareyah
+120308,El Danabiq
+120309,El Raydaneyah
+120310,El Zamar
+120311,El Malhah
+120312,El Nozhah
+120313,El Nasimeyah
+120314,Awish El Hagar
+120315,Bahqirah
+120316,Bedway
+120317,Badin
+120318,Barq El Ezz
+120319,Belgay
+120320,Telbana
+120321,
+120322,Gemeizet Belgay
+120323,Dabo Awam
+120324,Salamon
+120325,Selka
+120326,Salalant
+120327,Shawh
+120328,Shubra Badin
+120329,Shaha
+120330,Taranis El Bahr
+120331,Tanah
+120332,New Karam
+120333,Kafr El Amshoty
+120334,Kafr El Baramon
+120335,Kafr El Shenhab
+120336,Kafr Bedway El Gadid
+120337,Kafr Bedway El Qadim
+120338,Kafr Nelbanah
+120339,Kafr Tanah
+120340,Kafr Mit Fatek
+120341,Koum El Darby
+120342,Koum Bani Marasy
+120343,Menyet Bedway
+120344,Menyet Sandoub
+120345,Meet El Akrad
+120346,Meet El Sarem
+120347,Meet Badr Khamis
+120348,Meet Garah
+120349,
+120350,Meet Khayroun
+120351,Meet Azoun
+120352,Meet Ali
+120353,Meet Awam
+120354,Meet Lozah
+120355,Meet Mahmoud
+120356,Meet Mezah
+120357,Neqeitah
+120358,Magar
+120359,Kafr Abu Shawareb
+120360,Naseem 2
+120401,Aga City
+120402,Abu Dawoud El Enab
+120403,Akhtab
+120404,El Enshasia
+120405,
+120406,El Bahow Frik
+120407,El Dayr
+120408,
+120409,El Sabkha
+120410,El Salameyah
+120411,El Gharaqah
+120412,El Karama
+120413,El Mandarah
+120414,Borg Nour El Hams
+120415,Baqtares
+120416,Talbant Aga
+120417,Garah
+120418,Gelmowah
+120419,Daroh
+120420,Deyarb Baqtares
+120421,Samahah
+120422,Sanbakht
+120423,Sangid
+120424,Shubra El Bahw
+120425,Shabrawish
+120426,Shensha
+120427,Shenfas
+120428,Shenisah
+120429,
+120430,
+120431,
+120432,
+120433,Tanamel El Gharby
+120434,Ezab El Arab
+120435,Feshabnba
+120436,Qarmout El Bahw
+120437,
+120438,Kafr El Mandarah
+120439,Kafr El Negba
+120440,Kafr Dyarb Boqtares
+120441,Kafr Awad El Seneitah
+120442,
+120443,Monshaet El Baqly
+120444,Monshaet Abd El Nabi
+120445,Monshaet Mansour
+120446,Menyet Samanoud
+120447,
+120448,Meet Abu El Hussein
+120449,Meet Eshna
+120450,Meet El Amel
+120451,
+120452,Meet Fadalah
+120453,Meet Masoud
+120454,Meet Meaned
+120455,Nawasa El Bahr
+120456,Nawasa El Gheit
+120457,Abu Zaid
+120458,El Salam
+120501,Meet Ghamr City
+120601,Atmedah
+120602,El Boha
+120603,El Hakemeyah
+120604,El Dionia
+120605,El Rahmanaia
+120606,El Qation
+120607,El Maasarah &Koforha
+120608,Awlilah
+120609,Bashalosh
+120610,Beshla
+120611,Bahidah
+120612,Tafahna El Ashraf
+120613,Gasfa
+120614,Damas
+120615,
+120616,Serenga
+120617,Senbo Maqam
+120618,Sentmay
+120619,Senfa
+120620,
+120621,Kafr Ibrahim Youssef
+120622,Kafr Abu El Eznin
+120623,Kafr Abu Nabhan
+120624,Kafr El Gohari
+120625,Kafr El Hegazi
+120626,Kafr El Sharaqwah
+120627,Kafr El Shahid
+120628,Kafr El Sheikh
+120629,Kafr El Mohamadeyah
+120630,Kafr El Meqdam
+120631,Kafr El Naim
+120632,Kafr El Wazir
+120633,Kafr Barbari Solayman
+120634,Kafr Dawoud Matar
+120635,Kafr Roshdi
+120636,Kafr Serenga
+120637,Kafr Soliman Tadros
+120638,Kafr Sharaf
+120639,Kafr Ata Allah Solayman
+120640,Kafr Ali Abd Allah
+120641,Kafr Mit El Ezz
+120642,Kafr Noeman
+120643,Kafr Beheda
+120644,Kfour El Bahaytah
+120645,
+120646,Meet Abu Khaled & Kafr Ali Badra
+120647,Meet El Aaz
+120648,Meet El Faramawi
+120649,Meet El Qershi
+120650,Meet Mohsen
+120651,Meet Nagi
+120652,
+120653,Hela
+120701,El Sinbelawayn City
+120702,Abu Qarameet
+120703,El Orman
+120704,El Beshnety
+120705,El Bakareyah
+120706,El Belamon
+120707,El Temd El Hagar
+120708,El Gelaylah
+120709,El Hagayzah
+120710,El Hasaina
+120711,El Haswah
+120712,El Ramzia
+120713,El Rawdah
+120714,El Zoreiqi
+120715,El Zahayrah
+120716,El Salam - Kafr Tanboul El Geded Prev
+120717,El Shaalah
+120718,Kafr El Azawi
+120719,El Fath
+120720,El Matouh
+120721,El Makhzan
+120722,El Moqateah
+120723,
+120724,Borg Nour El Arab
+120725,Barqin
+120726,Barhemtoush
+120727,Bashmas
+120728,Deyo El Wosta
+120729,Shubra Sendy
+120730,Shubra Qebalah
+120731,Shubra Hor
+120732,Taranis El Arab
+120733,Tamay El Zahayrah
+120734,Tenbaraha
+120735,Tanboul El Kobra
+120736,Tahway
+120737,Tokh El Aqlam
+120738,Ghazalah
+120739,Qarqirah
+120740,Kafr El Hag Azab
+120741,Kafr El Rok
+120742,Kafr El Shorafa
+120743,Kafr El Shahid Mustafa Hamouda
+120744,Kafr El Anania
+120745,Kafr Badawi Gerges
+120746,Kafr Bani Salem
+120747,Kafr Saad
+120748,Kafr Salamah
+120749,Kafr Shubra Hor
+120750,Kafr Tanboul El Qadim
+120751,
+120752,Kafr Azam
+120753,Kafr Ghanam
+120754,Kafr Qonsowah
+120755,Kafr Mohamed El Shenawi
+120756,Kafr Mit Ghorab
+120757,Kafr Yousef Awad
+120758,Monshaet Ezzat
+120759,Monshaet Helal
+120760,Monshaet Reda
+120761,Meet Ghorab
+120762,Meet Ghereta
+120763,Nob Tarif
+120764,Mubarak
+120765,El Fanan
+120766,El Sersy
+120767,Saad El Deen
+120768,
+120801,Tama El Amded City - Ezbty Asem & Afify
+120802,Abu Dawoud
+120803,El Beida
+120804,El Khamsah
+120805,El Rabea
+120806,El Saudia
+120807,El Samarah
+120808,El Safa - Ghoror Prev
+120809,
+120810,El Kamal
+120811,El Mehey
+120812,Tag El Ezz
+120813,Abo El Sir
+120814,Zefr
+120815,Sadqa
+120816,Kafr El Amir Abd Allah
+120817,Kafr Sengab
+120818,Monshaet El Maalouh
+120819,Monshaet Sabry
+120820,Mansheyat El Salam
+120821,Mansheyat El Shorafa
+120822,Mansheyet El Gharby
+120823,El Fath El Gededa
+120901,Bani Ebid City
+120902,Abu El Maaty El Baz
+120903,El Hadadah
+120904,El Disah
+120905,El Zohairy
+120906,El Salahat
+120907,El Yousefia
+120908,Deyarb El Khodr
+120909,Tolombat Bani Ebied
+120910,Kafr El Selahat
+120911,Kafr Mit Fares
+120912,Mubarak
+120913,Monshaet Mosbeh
+120914,Meet Sewed
+120915,Meet Adlan
+120916,Meet Fares & Kafraha
+121001,
+121002,El Nasra
+121003,Kafer El Elo
+121004,Kafr Safan
+121005,New Mubarak
+121006,Monshat El Salam
+121007,
+121101,Dekernes City
+121102,Ashmoun El Roman
+121103,El Bashmour
+121104,El Horaia
+121105,El Khashashnah
+121106,El Rabieah
+121107,El Salam
+121108,El Azazna
+121109,El Qebab As - Soghra
+121110,El Qebab El Kobra
+121111,El Qalobia
+121112,El Kormaa
+121113,El Karma El Gededa
+121114,El Mahmoudeyah
+121115,El Marsah
+121116,
+121117,Hamada
+121118,
+121119,Damo - Damo El Sebakh Sabeqa
+121120,Demshelt
+121121,Kafr Abu Ali
+121122,Kafr Abo Naser
+121123,Kafr El Baz
+121124,Kafr El Zahayrah
+121125,Kafr El Qebab
+121126,
+121127,Monshaet Abd El Rahman
+121128,Meet El Soudan
+121129,Meet El Nahal
+121130,Meet Saadan
+121131,Meet Sharaf
+121132,Meet Dafer
+121133,Meet Tarif
+121134,Nagir & Mit Shadad
+121135,Abu Taha
+121136,Nasser
+121201,
+121202,El Baglat
+121203,El Geneinah
+121204,El Hamideyah
+121205,El Khodeery
+121206,El Reyad
+121207,El Nazl
+121208,Brembel El Gadidah
+121209,Brembel El Qadimah
+121210,Kafr Abu Zekry
+121211,Kafr Allam
+121212,Kafr Qanish
+121213,Monshaet El Gamal
+121214,Monshaet Assem
+121215,Monshaet Mubarak
+121216,Meet Tamamah
+121217,Meet Hadid
+121218,Meet Asem
+121219,Ghoneem Shata
+121220,El Washayha
+121221,El Salam
+121301,Ahmed Foda Mohamaden
+121302,Farouk El Debs
+121303,Mohamaden El Tantawy El Sayed
+121305,Medhat Abu El Saud Ali Hassanen
+121306,Mahmoud Hassan Ibrahim
+121307,Saif El Yazal Ahmed Yousef
+121308,Mahmoud Abu El Farag El Sayed
+121309,Ezbet El Rafeey
+121401,Meet Selseel City
+121402,El Gawaber
+121403,El Etehad
+121404,El Kafr El Gadid
+121405,El Gaadfrah
+121501,
+121502,El Mahalawy
+121503,El Hesha
+121504,Mubarak
+121505,Meet Marga Selsil
+121506,
+121601,
+121602,El Ahmadeyah
+121603,El Basaylah
+121604,El Basrat
+121605,El Gamamlah
+121606,El Houty
+121607,El Khalayfah
+121608,El Daqanwah
+121609,El Rodah
+121610,El Sataytah
+121611,El Sharifeyah
+121612,El Shaboul
+121613,El Amrah
+121614,El Eryan
+121615,El Azizah
+121616,El Amarnah
+121617,El Frosat
+121618,El Qazaqzah
+121619,El Qatshah
+121620,El Mawaged
+121621,El Nasaymah
+121622,El Hanaydah
+121623,Awlad Banah
+121624,Awlad Hanah
+121625,Awlad Serag
+121626,Awlad Alam
+121627,Awlad Nasser
+121628,Awlad Nour
+121629,Bany Helal
+121630,
+121631,Dar El Salam - El Qatayla Prev
+121632,
+121633,Kafr Hagag
+121634,Meet Khodeir
+121635,Meet Sharif
+121636,
+121701,
+121702,El Dahir
+121703,El Asafrah
+121704,Awlad Sabour
+121801,sherben City
+121802,Abu Galal
+121803,El Ahmadeyah
+121804,El Hesas
+121805,El Saadia
+121806,El Salam
+121807,El Shenawi
+121808,El Sabreyah
+121809,El Dahreyah
+121810,El Awadeyah
+121811,El Eyadeyah
+121812,Bosat Karim El Din
+121813,Tirat Ghoneim
+121814,Denjoway
+121815,Raas El Khaleg
+121816,
+121817,Kafr El Atrash
+121818,
+121819,Kafr El Teerah
+121820,Kafr El Hajj Sherbini
+121821,Kafr El Hatabah
+121822,Kafr El Dabousi
+121823,Kafr El Sheikh Ateyah
+121824,Kafr El Wakalah
+121825,Kafr Monshaet El Nasr
+121826,Kafr Youssef
+121827,Mahalet Enshaq
+121901,
+122001,Talkha City
+122002,El Rawdah
+122003,El Tawela
+122004,El Minyal
+122005,Orman Talkha
+122006,Besat
+122007,Batrah
+122008,Gogar
+122009,Dar El Salam - Shernqash Prev
+122010,Demeirah
+122011,Daysat
+122012,
+122013,Kafr El Khozam
+122014,Kafr El Tawilah
+122015,Kafr El Arab
+122016,Kafr El Qasali
+122017,Kafr Besat
+122018,Kafr Demera El Geded
+122019,Kafr Demeirah El Qadim
+122020,Kfour El Arab
+122021,Monshat El Badawi
+122022,Meet El Kormaa
+122023,Meet Zonqor
+122024,Meet Antar
+122025,Meet Nabet
+122026,Sarsaq
+122101,Nabarouh City
+122102,Abstwa
+122103,Afnesh
+122104,El Drotin
+122105,El Tibah
+122106,Banoub
+122107,Bahout
+122108,Terwa
+122109,Darin
+122110,Tanbouha
+122111,Tanikh
+122112,Kafr El Abhar
+122113,Kafr El Geneinah El Bahari
+122114,Kafr El Hesah
+122115,Kafr El Dakrouri
+122116,Kafr Bahout
+122117,Meet Ayad
+122118,Nesha - Kafr El Horany & Kafr El Bashabesha
+122201,Belqas City
+122202,Abu Basal
+122203,Abu Deshesha
+122204,Abu Shereif
+122205,Abu Taha
+122206,El Gawadia
+122207,El Hafeer & El Amal El Markazia
+122208,El Kelala - Belqas Rabea Prev
+122209,El Damayrah
+122210,El Domeen - Belqas Thaleth Prev
+122211,El Ramlah
+122212,El Zahraa
+122213,El Satamony
+122214,El Samaheyah El Kobra
+122215,El Sherka - Belqas Khames Prev
+122216,El Shawami
+122217,El Areed
+122218,El Masara
+122219,El Nashrah
+122220,Basandilah
+122221,Zayan
+122222,Qelabshowah
+122223,Kafr El Ghanamah
+122224,Kafr Demlash
+122225,
+122226,Monshaet Shuman
+122227,Monshaet Abd El Qader
+122228,
+122229,El Sabkhawia
+122230,El Fanan
+122231,El Khazendar
+129999,
+130101,El Harery
+130102,El Hesenia
+130103,El Montaza
+130104,El Nahal(To Include El Mabraz)
+130105,El Nezam
+130106,Moawad
+130107,
+130201,El Ishara
+130202,El Gamea
+130203,El Hakma
+130204,El Zakazek El Bahary
+130205,El Zakazek El Kably
+130206,El Saiaden
+130207,El Manshya - Hassan Saleh
+130208,Kafr Abd El Aziz
+130209,Youssief
+130301,El Bayoum
+130302,El Reyad
+130303,El Zankalon
+130304,El Zahraa
+130305,El Saada
+130306,El Shabanat
+130307,
+130308,El Taher
+130309,El Tibah
+130310,El Aslogy
+130311,El Elawa
+130312,El Ghar
+130313,El Mousalmaya
+130314,El Nakhas
+130315,El Nakaria
+130316,Om El Zein
+130317,Um El Ramad
+130318,Enshas El Basal
+130319,Bardein
+130320,Banauos
+130321,Bani Ashbl
+130322,Bany Amer
+130323,Abni Ayad
+130324,Bahgat
+130325,Bahnabay
+130326,Beshet Faied
+130327,Tal Howein
+130328,Tal Mosmar
+130329,Hod El Tarfa
+130330,Deweida
+130331,Sherweida
+130332,
+130333,Shobak Basta
+130334,
+130335,Sefita
+130336,Tarout
+130337,Tahlet Bardein
+130338,Tahra Hameid
+130339,Ghazalet El Khais
+130340,Farsis
+130341,Kafr Abaza
+130342,Kafr Abo Gabal
+130343,Kafr Abo Nageh
+130344,Kafr Ahmed Borhom
+130345,Kafr Ahmed Gobran
+130346,Kafr Ahmed Saleh
+130347,Kafr El Ashraf
+130348,Kafr El Garaia
+130349,Kafr El Hosr
+130350,Kafr El Hamam
+130351,Kafr El Satohaia
+130352,Kafr El Shaweshaia
+130353,Kafr El Halaby
+130354,Kafr El Shakh Mossa Omran
+130355,Kafr Dnohia
+130356,Kafr Soliman Mossa
+130357,
+130358,Kafr Ata Allah Salama
+130359,Kafr Awad Allah Hegazy
+130360,Kafr Mohamed Husien
+130361,Kafr Mahmoud Shaweash
+130362,Kafr Mahmoud Shawesh
+130363,Kafr Nawar Hana
+130364,Kafr Youssief Salama
+130365,Kafr Mekawy
+130366,Koum El Ashraf
+130367,Mashtoul El Qady
+130368,
+130369,Meet Abu Arabi
+130370,Meet Abo Aly
+130371,Meet Rakeb
+130372,Meet Zafar
+130373,Nashwa
+130374,
+130375,Kafr Gomaa
+130376,Kafr Abu Hakem
+130401,El Qenayat City
+130501,Mania Erl Kamh
+130502,Abo Tawala
+130503,El Aaras
+130504,El Talien
+130505,El Gededa
+130506,El Hamideyah
+130507,El Hod El Tawel
+130508,El Khors
+130509,El Rabamaia
+130510,El Sadaien
+130511,El Sanafen El Baharaia
+130512,El Sanafen El Kablaia
+130513,El Azizeyah
+130514,El Okda
+130515,El Kobaa
+130516,El Karakra
+130517,El Magazer
+130518,El Mohamadia
+130519,El Mousaada
+130520,El Maaly
+130521,El Maimona
+130522,El Namna
+130523,El Walga
+130524,Bendef
+130525,Bany Hussein
+130526,Bani Qoresh
+130527,Bany Helal
+130528,Beshet Amer
+130529,Telbana
+130530,Kholwa El Shaarawy
+130531,
+130532,Senhewat - Senhewat El bark Previous
+130533,
+130534,Shybra El Enab
+130535,Shubra El Salam
+130536,Shanshlamon
+130537,Shaibet Kash
+130538,Zahr Sharab
+130539,
+130540,Kamrona
+130541,Kardeida
+130542,Kafr Abo Dakn
+130543,Kafr El Daer
+130544,Kafr El Zakazek El Kably
+130545,Kafr El Shawra
+130546,Kafr El Shakh Khalefa
+130547,Kafr El Saida
+130548,Kafr El Ghonimy
+130549,Kafr Ayoub Awad
+130550,Kafr Badran
+130551,Kafr Bekatar Saad
+130552,Kafr Hasan Ata Allah
+130553,Kafr Hasan Okasha
+130554,Kafr Hasan Nada
+130555,Kafr Husien El Tobgy
+130556,Kafr Slama Ibrahim
+130557,
+130558,Kafr Shalshamon
+130559,Kafr Abd Allah Shankas
+130560,Kafr Abd Allah Azeza
+130561,Kafr Abd El Naby
+130562,Kafr Osman Efat
+130563,Kafr Aly Ghaly
+130564,Kafr Omar Mostafa
+130565,Kafr Farag Garges
+130566,Kafr Mohamed Ahmed
+130567,Kafr Mohamed El Ghatory
+130568,Kafr Mostafa
+130569,Kafr Mossa Shawesh
+130570,Kafr Mit Bashar
+130571,Kafr Shaban
+130572,Kafr Mit Sohil
+130573,Nafr Nashwa
+130574,Kafr Youssief Samry
+130575,Kom Halin
+130576,Malams
+130577,Monshat Shafek
+130578,Meet Bashar
+130579,
+130580,Meet Sohil
+130581,Meet Yazed
+130582,Kafr Abu Shehata
+130583,Kafr El Maragha
+130601,Mashtol El Sok
+130602,Abrash
+130603,El Batea
+130604,El Khasha
+130605,El Sahafa
+130606,El Ghafarea
+130607,El Manasra
+130608,El Moneir
+130609,Dahmasha
+130610,Kasha
+130611,Kafr Abrash
+130612,Kafr El Sharabaia
+130613,Kafr Dahashma
+130614,Kafr Youssief
+130615,Nabtet
+130701,Belbes City
+130702,El Blashon
+130703,El Gosak
+130704,El Rawdah
+130705,El Dhashana
+130706,El Zwamil
+130707,El Saadat
+130708,El Sedaia
+130709,El Salam
+130710,El Shaghanaba
+130711,El Shwalaia
+130712,El Tahawia
+130713,El Absy
+130714,El Adlaia
+130715,
+130716,El Kotayba
+130717,El Kafr El Adeem
+130718,El Mansheyah
+130719,Enshas El Raml
+130720,Awlad Saif
+130721,Awlad Mehana
+130722,Basatein El Ismaeilia
+130723,Basatein Serag El Dein
+130724,Bany Saleh
+130725,Beir Emara
+130726,Tal Rozan
+130727,Hefna
+130728,Selmant
+130729,Sendanhour
+130730,Shubra El Nakhla
+130731,Gheta
+130732,Karmala
+130733,
+130734,Kafr Ibrahim El Ayady
+130735,Kafr Akiad
+130736,Kafr El Shakh Essa
+130737,Kafr El Arab
+130738,Kafr Ayoub Soliman
+130739,Kafr Bany Alem
+130740,Kafr Hafna
+130741,Kafr Masoud Hagazy
+130742,Menyet Salmant
+130743,Menyet Santa
+130744,Meet Gaber
+130745,Meet Habib
+130746,Meet Haml
+130747,Meet Rabiah El Baidaa
+130748,Meet Mala
+130749,Monshat El Salam
+130750,Noba
+130751,Houd El Nada
+130801,Qesm 1st 10 Of Rammadan
+130901,Qesm 2nd 10 Of Rammadan
+131001,Abo Hamad City
+131002,El Asdaia
+131003,El Gafaraia
+131004,El Halmaia
+131005,El Horaia
+131006,El Khaies
+131007,El Sanagra
+131008,El Saadia
+131009,El Shakh Gabel
+131010,El Sawa
+131011,El Abasah
+131012,El Amara
+131013,El Araky
+131014,El Atawya
+131015,El Moseed
+131016,El Nasr
+131017,Bahteit
+131018,Bany Ayoub
+131019,Bany Gary
+131020,Tal Moftah
+131021,Shenbaret El Tenanat
+131022,
+131023,Tobegr
+131024,Alem
+131025,Amret
+131026,Arab El Fadan
+131027,Kafr Abo Moslem
+131028,Kesheik
+131029,Kafr El Azzazy
+131030,Kafr Abo Nagm
+131031,Kafr Hafez
+131032,Kafr Zedan Mandel
+131033,Kafr Ayad Karim
+131034,
+131035,Meet Radin
+131101,Hihya City
+131102,El Ahsania
+131103,El Zarzamon
+131104,El Sakakara
+131105,El Salamony
+131106,El Shabrawen
+131107,El Adawa
+131108,El Alakama
+131109,El Awaslaga
+131110,El Fawaksa
+131111,El Mahmoudeyah
+131112,El Mesalamy
+131113,El Moutawaa
+131114,Hod Negeih
+131115,Kholwah Abu Hatab
+131116,Sharsheima
+131117,Sobaih
+131118,Kafr Abo Hatab
+131119,Kafr El Sheikh El Zawahry
+131120,Kafr El Khodery
+131121,Kafr El Abad
+131122,Kafr El Mahmodaia
+131123,Kafr Awlad Ataia
+131124,Kafr Hamouda Arnaout
+131125,Kafr Dabos
+131126,Kafr Ageba
+131127,Manzel Haian
+131128,Monshaet Ghaly Mansour
+131129,Mahdaia
+131201,Deyarb Negm
+131202,Abo Ead
+131203,Akrash
+131204,Akwah
+131205,El Gawashna
+131206,El Beshnety
+131207,El Soweny
+131208,El Asaida
+131209,El Atayaa
+131210,El Mogaffef
+131211,El Manasfour
+131212,El Maysah
+131213,El Hawaber
+131214,Barmekm
+131215,Bahnia
+131216,Tal El Qady
+131217,Gemeza Bani Amr
+131218,Heset El Rohban
+131219,Debeig
+131220,Deiarb El Souk
+131221,Shubra Sora
+131222,Shenbaret Menkela
+131223,Shobak Akrash
+131224,Safour
+131225,Saft Zoraik
+131226,Sahbara
+131227,Taha El Marg
+131228,Ferghana
+131229,Kaweisha
+131230,Karmout Sahbara
+131231,Karadeis
+131232,Kafr Abu Bery
+131233,Kafr Abo Mtna
+131234,Kafr El Basha
+131235,Kafr El Hag Hasan
+131236,Kafr El Akl
+131237,Kafr El Laba
+131238,Kafr Genedy
+131239,Mena Haret
+131240,Monshat Safwat
+131241,
+131242,
+131243,Monshat Kasem
+131244,Monshat Koshk
+131245,Monshat El Ataren
+131301,
+131302,El Habash
+131303,El Halawat
+131304,El Khodaraia
+131305,El Sods
+131306,El Tardaia
+131307,Tal Mohamed
+131308,Sharkia Mobasher
+131309,Tawahein Akrash
+131310,Kateifa Mobasher
+131311,Kafr El Galaila
+131312,Kafr El Shorafa El Bahary
+131313,Kafr El Shakh Dawod
+131314,Kafr Abo El Deab
+131315,Kafr Awad Soliman
+131316,Kafr Mohsin
+131317,Kfour Nagm
+131318,Mobasher
+131319,Monshat El Tahrer
+131401,Abu Kebir City
+131402,Abo Yasein
+131403,El Ahrar
+131404,El Haswah
+131405,El Hamadein
+131406,El Dahtamon
+131407,El Rahmanaia
+131408,El Reyad
+131409,El Ghaba
+131410,El Aramous
+131411,El Meshaala
+131412,El Azazaia
+131413,Awlad Mosa
+131414,Bani Ayadd
+131415,Gazeiret El Shaikh
+131416,Santris
+131417,Tokh El Karamous
+131418,Farasha
+131419,Kafrel Sawaky-Tashmal Kafr Maher
+131420,Kafr El Noseery
+131421,Kafr Habetet
+131422,Manzel Maimon
+131423,Monshaet El Mansterly
+131424,Monshat Radwan
+131425,Monshat Sadky
+131426,Nazlet El Aren
+131427,Nazlet Khaial
+131428,Harbit
+131501,Kafr Sakr City
+131502,Abo El Shokok
+131503,Abo Harez
+131504,El Boha
+131505,El Hwamda
+131506,El Rbaaien
+131507,El Sewerky
+131508,El Sharakia
+131509,El Sora
+131510,El Qarabeen
+131511,Elkodah
+131512,
+131513,El Mowansa
+131514,El Hagarsa
+131515,Teleiga
+131516,Hanout
+131517,Sengeha
+131518,Shaneet El Harabwah
+131519,Seit El Hawa
+131520,Qarajah
+131521,Kafr Abo Sharabaia
+131522,Kafr El Hadidy
+131523,Kafr Hamad
+131524,Kafr Abd El Shaid Shenouda
+131525,Monshaet Ben El Aasy
+131526,Monshaet Shalaby
+131527,Monshat Youssief Mansour
+131528,Mansheyet Abd El Latef Waked
+131529,Natora
+131530,Nogom
+131601,Awlad Saqr City
+131602,Ibrahim Hasan
+131603,El Sofaia
+131604,Bani Hassan
+131605,Bani Mansour
+131606,Bani Abs
+131607,Tal Rak
+131608,Gazeiret Metawea
+131609,Hamada
+131610,Zwar Abo Lail
+131611,Kasasein El Azhar
+131612,Kafrel Shwafen
+131613,Kafr El Farayha
+131614,Monshaet Naser
+131615,Monshat El Sadat
+131616,
+131617,Abu Owynat
+131701,
+131702,San El Hagar El Baharia
+131703,El Bakarasha
+131704,El Nagehy
+131705,El Nasereyah
+131706,El Qasaby Sharq
+131708,Hanoura
+131801,
+131802,El Dwahraia
+131901,
+131902,El Akhewah
+131903,El Gamalaia
+131904,El Hagazy
+131905,El Hamadein
+131906,El Salhia 3 - El Abtal
+131907,El Salhia 7 - El Ahrar
+131908,El Salhia El Basateen
+131909,El Malkeen El Bhrea
+131910,El Malkeen El Kablayaa
+131911,El Mounaga El Soghraa
+131912,El Mounaga El Koubra
+131913,Gazeret Saudi
+131914,
+131915,Samakein East
+131916,Samakein West
+131917,Shohadaa Bahr El Baqar 2
+131918,Shohadaa Bahr El Baqar 3
+131919,Shohadaa Bahr El Baqar 4
+131920,Shohadaa Bahr El Baqar 5
+131921,Kasasein El Shark
+131922,Kahbona
+131923,Monshaet Ragheb El Tahawy
+131924,Monshat Mostafa Khalil
+131925,Mansheyet Abo Amer
+131926,
+132001,
+132101,Meet El Aaz
+132102,Ashkor
+132103,Akaed El Baharaia
+132104,Akaed El Kablaia
+132105,El Akhminaien
+132106,El Berom
+132107,El Gaadfrah
+132108,
+132109,
+132110,El Khatara
+132111,El Damaien
+132112,El Daidamon
+132113,El Rawdah
+132114,El Zawia El Hamra
+132115,El Soltana
+132116,El Samana
+132117,El Saleheyah
+132118,El Sawaleh
+132119,El Tawela
+132120,El Aren
+132121,El Azazy
+132122,El Ghazaly
+132123,El Fadadna
+132124,El Namrout
+132125,El Nawafaa
+132126,El Nahasein
+132127,El Haisamia
+132128,Awlad El Adwy
+132129,Awlad Abdein
+132130,Bany Sereid
+132131,
+132132,Daraweish
+132133,Dawar Geheina
+132134,Dawama
+132135,Seneita El Refaeieen
+132136,Sawada
+132137,Ghazala Abu Abdoun
+132138,Kanteir
+132139,Kafr Ibrahim Beshara
+132140,Kafr El Ashkam
+132141,Kafr El Hag Omar
+132142,Kafr El Olama
+132143,Kafr Shawesh
+132144,Kafr Koshk
+132145,Manshyet El Qady
+132146,Manzel Naem
+132147,Monshat Nabhan
+132201,El Koreen
+132301,
+139899,
+139999,Surrounded By Desert To 10Th Of Ramadan District
+140101,
+140201,
+140301,El Ramlah
+140302,El Shamout
+140303,Betemdah
+140304,Baqirah
+140305,Bata
+140306,
+140307,Gamgarah
+140308,
+140309,Demlo
+140310,Sandanhour
+140311,Sheblenga
+140312,Tahlah
+140313,Farsis
+140314,
+140315,Kafr Abo Zahrah
+140316,Kafr El Arbain
+140317,Kafr El Gazzar
+140318,Kafr El Hesah
+140319,Kafr El Hamam
+140320,Kafr El Shamout
+140321,Kafr El Sheikh Ibrahim
+140322,Kafr El Arab
+140323,Kafr Bata
+140324,Kafr Saad
+140325,Kafr Sandanhour
+140326,Kafr Tahlah
+140327,Kafr Ata Allah
+140328,Kafr Farsis
+140329,Kafr Mowis
+140330,Magoul
+140331,Marsafa Wa Kafr Ahmad Hashish
+140332,
+140333,Monshat Banha
+140334,Menyet El Sebaa
+140335,Meet El Hofeyin
+140336,Meet El Atar
+140337,
+140338,Meet Asem
+140339,Neqbas
+140340,Warwarah
+140341,El Sahel
+140401,Kafr Shokr City
+140402,Asnit
+140403,El Baqashin
+140404,El Zamrouneyah
+140405,El Shaqr
+140406,El Safein
+140407,
+140408,
+140409,Barqata
+140410,Tasfa
+140411,Kafr El Shahawi Khater
+140412,Kafr El Welga
+140413,Kafr Ragab
+140414,Kafer Shraf El Dine
+140415,Kafr Salib Selama
+140416,Kafr Tasfa
+140417,Kafr Abd El Sayed Nawar
+140418,Kafr Izab Ghoneim
+140419,
+140420,Kafr Mansour
+140421,Kofur Amer Wa Radwan
+140422,Meet El Derig
+140423,
+140501,Tokh City
+140502,
+140503,
+140504,
+140505,El Hesah
+140506,El Haswah
+140507,El Dayr
+140508,El Safaynah
+140509,El Sifa
+140510,El Saleheyah
+140511,El Safa
+140512,El Abadlah
+140513,
+140514,El Ghazawyah
+140515,El Manzelah
+140516,
+140517,
+140518,
+140519,Beltan
+140520,Tersa
+140521,
+140522,
+140523,Dandana
+140524,Zawyet Beltan
+140525,Sanharah
+140526,
+140527,Shubra Hars
+140528,Tant El Gazirah
+140529,Arab El Rawashda
+140530,
+140531,Qarqashandah
+140532,Kafr El Gemal
+140533,Kafr El Hadadin
+140534,Kafr El Hasafah
+140535,Kafr El Regalat
+140536,Kafr El Amar
+140537,Kafr El Foqahaa
+140538,Kafr El Nakhlah
+140539,Kafr Hasan Saad
+140540,Kafr Elwan
+140541,Kafr Mansour
+140542,Kfour Abed
+140543,Kom El Atron
+140544,Moshtahar
+140545,Mansheyat El Amar
+140546,Mansourah Namoul
+140547,Meet Kenanah Wa Kafr Shoman
+140548,Namoul
+140549,Kom Mobten
+140601,Qaha City
+140602,El Hesaneyah
+140603,
+140701,
+140702,Abo El Gheit
+140703,
+140704,El Akhminaien
+140705,El Baradaah & Khelwtha
+140706,El Kharqaneyah
+140707,
+140708,El Moneira
+140709,Basous
+140710,Bahadah
+140711,Sandabis
+140712,Shubra Shehab
+140713,Shelqan
+140714,Qaranfil
+140715,Kafr El Hareth
+140716,
+140717,Kafr Selim
+140718,Kafr Alim
+140801,qaliob City
+140901,
+140902,El Eslah El Zeraay
+140903,El Sad
+140904,El Sabah
+140905,Belkeis
+140906,Halaba & Kafr El Sabel
+140907,Zawyet El Nagar
+140908,Sandyoun
+140909,Sanafir
+140910,Tanan
+140911,Qelma
+140912,Kafr Abu Gomaa
+140913,Kafr Ramadah & El Torgoman
+140914,Kom Ashfin
+140915,
+140916,Meet Helfa
+140917,Meet Nma
+140918,Abu Sena
+141001,
+141002,Begam
+141003,Shubra Damanhour
+141101,Bahteim
+141102,Mostord
+141201,El Khosos City
+141301,Shibin El Qanatir City
+141302,El Ahrar
+141303,El Gaadfrah
+141304,El Hezania
+141305,El Hesaneyah
+141306,El Hasafah
+141307,El Zahweyyin
+141308,El Selmaneyah
+141309,El Shubak
+141310,El Etarah
+141311,El Qashish
+141312,El Qelzam
+141313,El Kawm El Ahmar
+141314,El Marig
+141315,
+141316,Tel Bani Tamim
+141317,Tahanoub
+141318,Tahoureyah
+141319,Arab El Shaara
+141320,Arab El Sawalhah
+141321,Kafr El Dayr
+141322,
+141323,Kafr El Shubak
+141324,
+141325,
+141326,
+141327,Kafr Sendowah
+141328,Kafr Shebin
+141329,Kafr Taha
+141330,Kafr Tahoureyah
+141331,Kom El Samn
+141332,Kafr Soliman El Wer
+141333,Monshaet El Keram
+141334,Menyet Shebin
+141335,
+141336,Nob Taha
+141337,
+141401,Ahmed Gharib
+141402,Awad Saleh
+141403,Mohamed Shafeey
+141404,Amin Youssef
+141501,Abu Zaabal
+141502,El Kalg
+141503,El Manayil
+141504,El Minyah
+141505,Saryaqos
+141506,Sandouh
+141507,Arab El Abayda
+141508,Arab El Eleykat
+141509,El Gabal El Asfar
+141510,23 july
+141511,Kafr Hamzah
+141512,Kafr Ebyan
+141513,El Gabal El Asfar Farm
+141601,El Abor
+141602,Ahmed Orabi Association
+149999,Surrounded By Desert To El Obour Districit
+150101,Meet Elwan
+150102,El Molhakat
+150103,Awad El Zawaawy
+150104,Sakhaa
+150105,Ali Mostafa El Zawaawy
+150201,El Shawadfy El Laqany
+150202,Beder Elawaa
+150301,Sedi Ghazy - Qeta El Zawyah
+150302,
+150303,Abu Tamadah
+150304,Adrigah
+150305,Arimon
+150306,Ishaqa
+150307,El Bakhanis
+150308,El Hedoud
+150309,El Halaqy
+150310,El Hamraa
+150311,El Khademeyah
+150312,El Khodeery
+150313,El Shamarqah
+150314,El Tayfah
+150315,El Tarabeyah
+150316,El Qarda
+150317,El Kafr El Gadid
+150318,El Merabein
+150319,El Netaf
+150320,Bateitah
+150321,Belshashah
+150322,Helis
+150323,Dafreyah
+150324,Deqlat
+150325,Doqmerah
+150326,Rezqat El Shenawi
+150327,Rezqat Amay
+150328,Reweinah
+150329,Shenw
+150330,Sandela
+150331,Qarajah
+150332,Kafr Abu Tabl
+150333,Kafr El Hamrawi
+150334,Kafr El Tayfah
+150335,Kafr El Merabein
+150336,Kafr El Manshi El Bahari
+150337,Kafr Dafreyah
+150338,Kafr Askar
+150339,Kafr Matboul
+150340,Matboul
+150341,Mahalet El Qasab
+150342,Mahelat Mousa
+150343,Masir
+150344,Mustafa Kamel - El Tawahena
+150345,Menyet Masir
+150346,Nasrah
+150347,Monshat El Safa
+150401,El Riyad City
+150402,Abo Rayah
+150403,Abo Mostafa
+150404,El Bareyah
+150405,El Bashayer
+150406,El Hasfah
+150407,El Raseef
+150408,El Raghamah
+150409,El Dabah
+150410,El Aqoulah
+150411,El Abasia
+150412,El Emdan
+150413,El Mothelath
+150414,El Wazireyah
+150415,Baqloulah
+150416,Farag
+150417,
+150418,Um Sen El Kobra
+150419,El Magd 55
+150501,El Hamul City
+150502,
+150503,El Bana & Ezabha
+150504,El Zafaran
+150505,El Kafr El Sharqy
+150506,
+150507,El Taftesh
+150508,Gharb Terah
+150509,
+150510,
+150601,El Sheyakha El Ola
+150602,
+150603,
+150604,
+150701,Abshan
+150702,El Shotout
+150703,El Elameyah
+150704,El Kom At - Tawil
+150705,El Nasereyah
+150706,El Hemah
+150707,Hazeq
+150708,Dar El Salam
+150709,Ezbet Badawi
+150710,Kafr El Garaydah
+150711,Kafr El Agami
+150712,Kafr El Qata
+150713,Kom El Hegnah
+150714,El Hawaa
+150801,Baltim City
+150802,Masyaf Balteem City
+150803,
+150804,El Banaeen
+150805,El Hamad
+150806,El Rabea (Souq El Thelath)
+150807,El Sahel El Bahary - Balosh
+150808,El Sahel El Qebly - El Wahabia
+150809,El Shehabeyah
+150810,El Sheikh Mobarak
+150811,El Ayash
+150812,Bar Bahary
+150813,El Zahraa
+150901,Metobas City
+150902,Abiana
+150903,El Gazirah El Khadra
+150904,El Qeni
+150905,El Qomesyoun Sharq
+150906,El Qomesyoun Gharb
+150907,Borg Megheizel
+150908,Boronbal
+150909,Bereidah
+150910,Bani Bakar
+150911,
+150912,Ezab El Khaleg Bahary
+150913,Ezab El Gharb
+150914,Ezab El Waqf Bahary
+150915,Ezab El Waqf El Qebly
+150916,Ezbet Amr
+150917,Maadyet Mahdy & El Ergan
+150918,Menyet El Morshed
+151001,Fowa City
+151002,Abo Deraz
+151003,El Salmeyah
+151004,El Mansheyah
+151005,El Fotouh
+151006,Sandyoun
+151007,Shamshirah
+151008,Aryan
+151009,Qabrit
+151010,Menyet El Ashraf
+151101,Sidi Salim City
+151102,Abo Ghanimah
+151103,Abo Eleiwah
+151104,
+151105,Ezbet El Khawaled
+151106,El Hadadi Wa Izabha
+151107,El Rawdah
+151108,El Salehat
+151109,El Eisawia
+151110,El Foqaha El Bahareyah
+151111,El Foqaha El Qebleyah
+151112,El Qedabi
+151113,El Handasah
+151114,El Waraq
+151115,Baryet Lasfeer
+151116,Bared & Kafr El Youssef
+151117,Tidah
+151118,Damro
+151119,Sad Khamis
+151120,Shalmah
+151121,
+151122,Kafr El Masharqah
+151123,Kafr Tidah
+151124,
+151125,Monshat El Masri
+151126,Monshat Abas
+151127,Monshat Aql
+151128,
+151129,El Qan
+151130,El Balasy
+151201,Disuq City
+151301,Ebto
+151302,Abyouqa
+151303,El Ibrahimaia
+151304,El Shon
+151305,El Safyah Wa Mit El Hamid
+151306,El Agozein
+151307,El Mandourah
+151308,El Nawaygah
+151309,Gamgamoun
+151310,Demro Salman
+151311,Demenkah
+151312,Sanhour El Madinah
+151313,Shabah
+151314,Shebas El Shohada
+151315,Shebas El Melh
+151316,Ezab Abu Mandour
+151317,Ezab El Zawamel
+151318,Ezab El Shabaseyah
+151319,Kafr Ibrahim
+151320,Kafr Abo Zeyadah
+151321,Kafr El Kheir
+151322,Kafr El Soudan
+151323,Kafr El Arab
+151324,Kafr Umm Yousef
+151325,
+151326,Kafr Magar
+151327,Kanisat El Saradosi
+151328,Lasefer
+151329,
+151330,Mahalet Deyay
+151331,Mahalet Malek
+151332,Monshat Betah
+151333,Monshat Zalouk
+151334,
+151335,Menyet Ganah
+151401,Qillin City
+151402,El Bakatosh
+151403,El Shaqah
+151404,El Ghoneimi
+151405,El Kordi
+151406,El Kafr El Bahari
+151407,El Monshah El Soghra
+151408,El Monshah El Kobra
+151409,El Manshelin
+151410,Belankomah
+151411,Hesat El Ghoneimi
+151412,Shebas Emeir
+151413,Sarwah
+151414,Tawilah Nashart
+151415,Qazman
+151416,Qonah
+151417,Kafr El Gazaer
+151418,Kafr El Marazqah
+151419,Kafr El Mashayekh
+151420,Kafr Yousef Hans
+151421,Kafr Yousef Dawoud
+151422,Monshat El Shazli
+151423,Monshat Shabrato
+151424,Menyet Qill In
+151425,Meet El Dibah
+151426,Monshat Aglan
+151427,Nashart
+160101,
+160102,Saad El Deen
+160103,
+160104,
+160105,
+160106,
+160107,
+160108,
+160109,
+160110,
+160201,
+160202,Mohamed Megahed
+160203,Hassan Salem
+160204,
+160205,El Sayed Mansour
+160206,Mohamed Abd El Aal
+160207,Mahmoud Abu Shaleb
+160208,
+160209,Ahmed Abd El Rahman
+160210,Mohamed Taha
+160211,
+160212,El Shaarawy
+160213,
+160214,Mohamed Ismail
+160215,Ahmed Awaga
+160216,Fakhry Geesah
+160217,Mohamed Geaisa
+160299,Khareg El Zemam
+160301,Ikhnawy El Zelafah
+160302,El Gohareyah
+160303,El Ragdeyah
+160304,El Ramleyah
+160305,El Korsah
+160306,Borma
+160307,Brik El Hagar
+160308,Talbant Qaysar
+160309,Hesat Borma
+160310,Hesat Shabshir
+160311,Kharsit
+160312,Dafrah
+160313,Dakodah
+160314,Damshit
+160315,
+160316,Sebtas
+160317,Shubra El Namlah
+160318,Shabshir El Hessah
+160319,Shaqraf
+160320,Shobar
+160321,Shoni
+160322,Sanadid
+160323,Fisha Selim
+160324,Kafr Abo Dawoud
+160325,Kafr El Hema
+160326,Kafr El Sahel
+160327,
+160328,Kafr El Sheikh Selim
+160329,
+160330,
+160331,Kafr El Mansourah
+160332,Kafr Khedr
+160333,Kafr Sebtas
+160334,Kafr Tarnah
+160335,Kafr Esam
+160336,Kafr Elwan
+160337,Kafr Masoud
+160338,Kanisat Damshit
+160339,Mahalet Roh
+160340,Mahalet Marhoum Wa Hesatha
+160341,Mahalet Menouf
+160342,
+160343,Mansheyet El Awqaf
+160344,Mansheyat Ganzour
+160345,Manyel El Heweishat
+160346,Meet El Soudan
+160347,Meet Hebeish El Bahareyah
+160348,Meet Hebeish El Qebleyah
+160349,Nafya
+160350,Newag
+160401,
+160402,Abu El Gahour
+160403,
+160404,El Anbotin
+160405,El Bedenganeyah
+160406,El Bandarah
+160407,El Gafaraia
+160408,El Gemezah
+160409,El Regabeyah
+160410,El Qorasheyah
+160411,El Korama
+160412,
+160413,
+160414,Baqloulah
+160415,
+160416,Belkim
+160417,
+160418,Tag El Agam
+160419,
+160420,Sahim
+160421,
+160422,Shubrabil El Kananyah
+160423,Shubra Qas
+160424,Shandelat
+160425,Shanraq
+160426,
+160427,Tokh Mazid
+160428,
+160429,Kafr El Hajj Dawoud
+160430,Kafr El Sheikh Moftah
+160431,Kafr Khazael
+160432,Kafr Salem El Nahal
+160433,Kafr Soliman Awd
+160434,Kafr Qortam
+160435,Kafr Kela El Bab
+160436,
+160437,Mesahelah
+160438,
+160439,
+160440,Menyet Tokh
+160441,Meet El Layt Baklawlah
+160442,
+160443,Meet Ghazal
+160444,Meet Maymoun
+160445,Meet Yazid
+160501,Zefta City
+160502,El Reyad
+160503,El Samelaweyah
+160504,El Dababshah
+160505,El Ayshah
+160506,El Gharib
+160507,Tefehna El Izab
+160508,Hanout
+160509,Hanoun
+160510,Damanhour El Wahsh
+160511,Dahtourah
+160512,Senbat & Hesetha
+160513,
+160514,Sandabast
+160515,Shubra El Yaman
+160516,Shubra Melas
+160517,Shershabah
+160518,Sheshta
+160519,Farsis
+160520,
+160521,Kafr Ismail
+160522,Kafr El Gazirah
+160523,
+160524,Kafr El Daghaydah
+160525,Kafr El Dib
+160526,Kafr El Zaytoun
+160527,Kafr El Sehimeyah
+160528,Kafr El Sanadeyah
+160529,
+160530,Kafr El Arab
+160531,
+160532,
+160533,Kafr Husein
+160534,Kafr Damanhour El Qadim
+160535,Kafr Sonbat
+160536,Kafr Senbo
+160537,Kafr Shahin
+160538,Kafr Shubra El Yaman
+160539,Kafr Shubra Qeloug
+160540,Kafr Sheshta
+160541,Kafr Shamarah
+160542,
+160543,
+160544,Kafr Farsis
+160545,Kafr Mit El Haroun
+160546,
+160547,Majid Wasif
+160548,Monshat Hatem
+160549,Monshat Hasan
+160550,Meet El Bez
+160551,Meet El Haroun
+160552,Meet El Rakha
+160553,Meet El Mobasherin
+160554,Meet El Mokhles
+160555,
+160601,Samanoud City
+160602,Abu Seer Bana
+160603,El Rahebin
+160604,El Azizeyah
+160605,El Nasereyah
+160606,El Nawyah
+160607,Bana Abu Seer
+160608,Bahbit El Hegarah
+160609,Tolaymah
+160610,Kafr El Tabaneyah
+160611,Kafr El Sharaqwah
+160612,
+160613,Kafr El Azizeyah
+160614,Kafr Hassan
+160615,Magoul
+160616,Mahalet Khalaf
+160617,Mahalet Zeyad
+160618,Monshaet Nazif
+160619,Meet Badr Halawah
+160620,Meet Habib El Sharqeyah
+160621,Meet Asas
+160622,Meet Hashem
+160701,Hussin Sayed Ahmad Aly
+160702,El Borg
+160703,Nasser
+160801,Ahmed El Mansy
+160802,
+160803,
+160804,Mustafa Mustafa El Agroudy
+160901,El Tahrer
+160902,El Masy Sarhan
+160903,Abd El Hay Shalaby
+160904,Mohamed Hussen El Sahly
+161001,Abo El Nagah
+161002,El Ensha
+161003,El Banawan
+161005,
+161005,El Gabereyah
+161006,El Dawakhleya
+161007,El Segaeyah
+161008,
+161009,El Amereyah
+161010,El Atmania
+161011,El Qaratia
+161012,El Qasreyah
+161013,El Kameleyah
+161014,El Motamadeyah
+161015,El Hayatem
+161016,Bashbish
+161017,Batinah
+161018,Belqina
+161019,Dakhmes
+161020,Demetno
+161021,Damaro Khomrah - Damro El Sadat
+161022,Denoshr
+161023,Deyarb Hashem
+161024,Samoul
+161025,Senbarah
+161026,Sindsis
+161027,Shubra Babel
+161028,Shubra Melkan
+161029,Shubra Nabat
+161030,Saft Torab
+161031,Tarena
+161032,Tenbaraha
+161033,Etaf
+161034,
+161035,
+161036,Kafr El Abaydah
+161037,
+161038,Kafr Dakhmes
+161039,Kafr Demento
+161040,Kafr Demro
+161041,Kafr Fyala
+161042,Kafr Qaritnah
+161043,Labshit
+161044,Lomana El Gadidah
+161045,
+161046,Mahalet El Qasab
+161047,Mahalet Hasan
+161048,Mansheyet El Omaraa
+161049,Mansheyet El Awqaf
+161050,
+161051,Mansheyat Shentena Iash
+161052,Meet El Serag
+161053,Meet El Leit Hashem
+161054,Nemret El Basel
+161101,Qoutour City
+161102,Abshoway El Malaq
+161103,El Rayaynah
+161104,El Shin
+161105,
+161106,
+161107,El Emah
+161108,Amiot
+161109,Beltag
+161110,Borig
+161111,Hawin
+161112,Khabatah
+161113,Damat
+161114,Sagin El Kawm
+161115,
+161116,Samla
+161117,
+161118,Shubra Nebas
+161119,Sard
+161120,
+161121,
+161122,Kafr Ahmad Shalabi
+161123,
+161124,Kafr Beldam
+161125,Kafr Saadoun
+161126,Kafr Mahalet Masir
+161127,
+161128,Mahelet Masir
+161129,
+161130,Meet El Sheikh
+161131,Nashil
+161201,Basyoun City
+161202,El Hadad
+161203,El Forostoq
+161204,El Qadabah
+161205,Bar El Hamam
+161206,Genag
+161207,Hesat Abyar
+161208,Selamon El Ghobar
+161209,Shabratna
+161210,Shabrato
+161211,Shafa & Qaroun
+161212,Sa El Hagar
+161213,Qarensho
+161214,
+161215,Kafr El Hamam
+161216,Kafr El Dawar
+161217,Kafr El Manshy Abu Homr
+161218,Kafr Salem El Hebab
+161219,Kafr Soliman
+161220,Kafr Nasir
+161221,Kanisat Shubrato
+161222,Kom El Nagar
+161223,Mahalet El Laban
+161224,Mashal
+161225,
+161226,Monshat Basyoun
+161227,Meet El Kheir
+161228,Meet Sharif
+161229,Nagrig
+161301,Kafr El Zayat City
+161302,Abo El Ghar
+161303,Abyar
+161304,Abig
+161305,
+161306,Asdimah
+161307,Akwah El Hesah
+161308,El Delgamon
+161309,El Talbeyah
+161310,Mohamed Naguib - El Neharia Prev
+161311,Banofar
+161312,
+161313,Doqorn
+161314,Delebshan
+161315,Shubra Ris
+161316,Qasta
+161317,Qasr Baghdad
+161318,Qasr Nasr El Din
+161319,Qelib Abyar
+161320,Kafr Akhsha
+161321,Kafr El Ashqar
+161322,Kafr El Bagah
+161323,Kafr El Shorbagy
+161324,Kafr El Arab
+161325,Kafr El Qusar
+161326,Kafr El Hawashem
+161327,Kafr Hashad
+161328,Kafr Dima
+161329,Kafr Shemakh
+161330,Kafr Mashla
+161331,Kafr Yaqoub
+161332,
+161333,
+161334,Mashla
+161335,
+161336,Monshat Solayman
+161337,Mansoryet El Farastaq
+161338,Menyet Abyar
+170101,Godaa Mousa Habeb
+170102,Hassen Hassen Amer El Kamash
+170103,Sayed Ahmed Hassen El Qet
+170104,Ali Mohamed Ali Salema
+170105,Kafer El Maslhyaa
+170106,Meet Khaqan & Hesetha
+170201,
+170202,El Batanon & Hesetha
+170203,El Delaton Wa Rezqet Shams El Din
+170204,El Raheb
+170205,El Sokareyah
+170206,El Aseltah
+170207,El Koum El Akhdar
+170208,
+170209,El Meseilhah
+170210,Batbas
+170211,
+170212,Hesat Melig
+170213,Dekma
+170214,
+170215,Selka
+170216,Shubra Bas
+170217,Shubra Khelfoun
+170218,Shanon
+170219,Shanofah
+170220,Tanbadi
+170221,Kafr El Batanon
+170222,Kafr El Sheikh Khalil
+170223,Kafr El Agayzah
+170224,Kafr Deqmaq
+170225,Kafr Shenwan
+170226,
+170227,
+170228,Melig
+170229,Monshat El Sharikein
+170230,Monshat Bakhati
+170231,Monshat Shenwan
+170232,Meet El Moz
+170233,Meet Khalaf
+170234,Meet Afia
+170235,Meet Masoud
+170236,
+170301,El Shohada City
+170302,
+170303,Abo Kels
+170304,El Eraqeyah
+170305,
+170306,Gazeret El Hagar
+170307,Daragil
+170308,Danasor
+170309,
+170310,
+170311,
+170312,Sahel El Gawaber
+170313,Sarsamos
+170314,
+170315,
+170316,Shemyates
+170317,Ashma
+170318,Amrous
+170319,Kafr Ashma
+170320,Kafr El Gelabtah
+170321,Kafr El Gamelah
+170322,Kafr El Sawalmeyah
+170323,Kafr El Shabea
+170324,
+170325,
+170326,Kafr Sarsamos
+170327,Monshat El Sadat
+170328,Nader
+170401,Tala City
+170402,El Bendareyah
+170403,
+170404,El Kamayshah
+170405,Babel
+170406,
+170407,Bemm & Ezbet El Koum El Ahmar
+170408,Gedam
+170409,Zawyet Bamam
+170410,Zarqan
+170411,Zenarah
+170412,Samalig
+170413,Shubra Batoush
+170414,Saft Gedam
+170415,Tabloha
+170416,Tanoub
+170417,Tokh Delkah
+170418,Qashtokh
+170419,Kafr El Sadat
+170420,Kafr El Sokkareyah
+170421,
+170422,Kafr El Sheikh Shehatah
+170423,
+170424,
+170425,
+170426,Kafr Betbes
+170427,Kafr Ganzour
+170428,Kafr Rabia
+170429,Kafr Zorqan
+170430,Kafr Samalig
+170431,Kafr Sanadid
+170432,Kafr Tabloha
+170433,Kafr Askar
+170434,Kafr Qarshom
+170435,Kafr Mit Abu El Kawm
+170436,Kamshish
+170437,Kom El Sheikh Ebeid
+170438,Kom Mazen
+170439,
+170440,Meet Abo El Kawm
+170441,Meet El Keram
+170442,Monshat El Salam
+170443,Monshat Mohamed
+170444,Kafr Hammam
+170501,
+170502,Abo Mashour
+170503,El Helamshah
+170504,El Debabia
+170505,El Rawdah
+170506,El Shahid Fekri -Abagol
+170507,
+170508,Ganzour
+170509,Shenta El Hagar & Hesetha
+170510,Tanabsha
+170511,Toug Tanbasha
+170512,Kafr El Hamadeyah
+170513,Kafr El Sheikh Taimah
+170514,Kafr Alim
+170515,Kafr Melig
+170516,
+170517,Kafr Horin
+170518,
+170519,
+170520,Meet Um Saleh
+170521,Meet Fares
+170522,Horin
+170601,Qewasna City
+170602,Abnhas
+170603,Aghour El Raml
+170604,Ashlim
+170605,
+170606,
+170607,Umm Khanan
+170608,Begeram
+170609,Barah El Agouz
+170610,Baqsa
+170611,Bani Gharyan
+170612,Damhoug
+170613,Shubra Bakhom
+170614,
+170615,Sharanis
+170616,Shamandil
+170617,Taha Shubra
+170618,Arab El Raml
+170619,Qewasna El Balad
+170620,Kafr Abshish
+170621,Kafr Abnahs
+170622,Kafr Abu El Hassan
+170623,Kafr Ashlim
+170624,Kafr El Akram
+170625,Kafr El Salameyah
+170626,Kafr El Sheikh Ibrahim
+170627,
+170628,
+170629,Kafr Ben Gheryan
+170630,Kafr Zein El Din
+170631,Kafr Taha Shubra
+170632,Kafr Abdu Wa Monshat El Kheir
+170633,
+170634,Kafr Mit Serag
+170635,Kafr Wahb
+170636,Kfuor El Raml
+170637,
+170638,
+170639,
+170640,Monshaet El Shahid Abd El Moneem Riyad
+170641,Monshat Demlo
+170642,Meet Abu Shekha
+170643,
+170644,Meet El Ghaz
+170645,
+170646,Meet Barh Wa Kafr El Shahid
+170647,Meet Serag
+170648,Mansheyat El Arab
+170701,El Bagour City
+170702,Abkhas
+170703,Abshish
+170704,Abo Seneitah
+170705,Asrigah
+170706,Astanha
+170707,El Atarshah
+170708,El Baranqah
+170709,
+170710,El Khadrah-Qelti El sograh Previous
+170711,El Atf
+170712,El Qarinein
+170713,El Kutameyah
+170714,El Maqatea
+170715,
+170716,Bahnay Wa Monshatha
+170717,Be El Arab
+170718,Bir Shams
+170719,Telbent Abshish
+170720,Tlwana
+170721,Gorwan
+170722,Zawyet Gorwan
+170723,Sabk El Dehak
+170724,Seman
+170725,Sangelaf
+170726,
+170727,Feshaa El Soghraa We Hesathaa
+170728,
+170729,Kafr El Bagour
+170730,Kafr El Khadrah
+170731,Kafr El Dawar
+170732,Kafr El Ghanamyah
+170733,Kafr El Qarinein
+170734,Kafr Sabk
+170735,Kafr Sangelaf El Gadid
+170736,Kafr Sangelaf El Qadim
+170737,Kafr Shubra Zengi
+170738,Kafr Mahmoud
+170739,Kafr Menawhlah
+170740,Kom El Dabea
+170741,Majid El Khedr
+170742,Meshiraf
+170743,Manawhlah
+170744,Monshat Seif
+170745,Monshat Masged El Khedr
+170746,Meet El Beidah
+170747,
+170748,Meet Afif
+170801,Ashmoun City
+170802,Abo Raqaba
+170803,Abu Awaly & Monshatha
+170804,El Angab
+170805,El Baraneyah
+170806,
+170807,El Khor
+170808,El Ghanameyah
+170809,El Feroneyah
+170810,El Qanaterin
+170811,
+170812,El Neanaeyah
+170813,Barashim
+170814,Boha Sharanouf
+170815,Gris Wa Ezbethah
+170816,Daroh
+170817,Delehmo
+170818,Ramlet El Angab
+170819,
+170820,
+170821,Sabk El Ahad & Kafr El Marazqah & El Owaidat
+170822,Samadon
+170823,
+170824,Santris
+170825,Sehwag
+170826,Shatanof
+170827,Shasha
+170828,Shama
+170829,Shanshor Wa Hesatha
+170830,Shohadaa & Kafr El Badarnah
+170831,Shoshay & Kafr Ata
+170832,Sarawah
+170833,Telia & Ezbet Ashmoun
+170834,Tahway
+170835,Qoras
+170836,Kafr Abo Raqabah
+170837,Kafr Abo Mahmoud
+170838,Kafr El Hema
+170839,Kafr El Sayed
+170840,Kafr El Taraneyah
+170841,Kafr El Gharib
+170842,Kafr El Feroneyah
+170843,Kafr Srawah
+170844,Kafr Qoras
+170845,Kafr Awn
+170846,Kafr Mansour
+170847,Kom Ayad
+170848,Labishah Wa Hesathah
+170849,Magareyah Wa Kafr Megahed
+170850,Mahalet Sabak & Monshaet Naser
+170851,Monshat Gris
+170852,Manyel Goweidah
+170853,Manial Doweb & Monshaatha
+170854,Manyel Arous
+170855,Monsa Wa Izbetha
+170901,Sers El Layanah City
+171001,Menouf City
+171101,El Hamoul
+171102,El Amrah
+171103,El Kawm El Ahmar
+171104,Belmesht
+171105,Barahim Wa Monshat Sedoud
+171106,Bahwash
+171107,Teta
+171108,
+171109,
+171110,Demlig
+171111,Zawyet Razin
+171112,Sodoud
+171113,Serohit
+171114,Sengerg
+171115,Shubra Beloulah
+171116,
+171117,Sansaft
+171118,
+171119,Ghamrin
+171120,
+171121,
+171122,Kafr El Amrah
+171123,Kafr Belmasht
+171124,Kafr Remah
+171125,Kafr Shubra Beloulah
+171126,
+171127,Kamshoush
+171128,Monshat Soltan
+171129,Monshat Ghamrin
+171130,Meet Rabiah
+171131,Hit
+171201,
+171202,El Khatatbah
+171203,El Taranah
+171204,Abo Nashabah
+171205,El Akhmas
+171206,
+171207,Kafr Daowud
+171208,
+171209,El Gayar
+171210,El Salam
+179999,Surrounded By Desert To El Sadat City
+180101,Sakaneda
+180102,Shubra
+180103,Tamous
+180104,Kortasa
+180105,Nakraha
+180201,Abadaiat Damanhor
+180202,Aflaqah
+180203,El Barnogy
+180204,El Basateen
+180205,El Hamamaia
+180206,El Shoka
+180207,El Safasef
+180208,El Amraia
+180209,El Oga
+180210,El Maghayad
+180211,
+180212,Bastara
+180213,Hafs
+180214,Desuns Um Denar
+180215,Denshal
+180216,Zawiet Ghazal
+180217,Zerkwan
+180218,
+180219,
+180220,Senteis
+180221,Sanhour
+180222,Sharnoub
+180223,Tarabnba
+180224,Ezab El Awkaf
+180225,Ezbet Sakaneda
+180226,Ezab Shobra Damanhour
+180227,Ezab Kabeil
+180228,Ezab Kortasa We Tamous
+180229,Ezab Nakarha
+180230,Ezbet El Abreqegy
+180231,Ezab El Darwish
+180232,
+180233,Ezbet El Selanky
+180234,Ezbet Badr El Dein
+180235,
+180236,Ezbet Hussein Amr
+180237,Ezbet Selim Tobegian
+180238,Ezbet Tarabanba
+180239,Ezbet Mohamed Awad
+180240,Kabeil
+180241,Karakes
+180242,Kafr El Hamaida
+180243,Kafr Bani Helal
+180244,Kafr Sentees
+180245,Monshaet El Habashy
+180246,Monshat El Khazan
+180247,Monshat El Matran
+180248,Monshat Hamor
+180249,Monshaet Ragheb
+180250,Monshaet Said Touson
+180251,Monshat Gharbal
+180252,Monshat Mohamed El Wakel
+180253,Monshat Nasar
+180254,Mansheyet El Awkaf
+180255,Menyet Bani Mousa
+180256,
+180257,Nadeba
+180301,Housh Essa City
+180302,Abo El Shakaf
+180303,El Abkien
+180304,El Herfa - Saleh El Demeny
+180305,El Rzemat
+180306,El Setomaeah
+180307,El Qarneen
+180308,El Kardoud
+180309,El Koum El Akhdar
+180310,Harara
+180311,Shaltout
+180312,Kafr El Warak
+180313,Monshat Khaiat
+180314,El Sheeshaey
+180315,Ali Ibn Abi Taleb
+180316,El Shaarawy
+180317,Naguib Mahfouz
+180318,Tawfiq El Hakim
+180319,Mohamed Refaat
+180320,Abas El Akkad
+180321,
+180401,Abu El Matamer City
+180402,Abo El Matamer El Baharaia
+180403,El Ghayta
+180404,El Mahdia
+180405,
+180406,El Nemtia
+180407,El Baseinia
+180408,Trogy
+180409,Zawiet Salem
+180410,Zawiet Sakr
+180411,Kom El Farag
+180412,Kom El Kadh
+180413,Kom Hafen
+180414,Monshaet Tharwat
+180415,Monshat Gnaklis
+180416,
+180417,El Amal
+180418,El Eman
+180419,El Horaia
+180420,El Hewehy
+180421,El Rakha
+180422,El Salam
+180423,El Sheikh Mohamed Metwaly El Shaarawy
+180424,El Safa
+180425,El Azema
+180426,El Qaher
+180427,El Kefah
+180428,El Mahdy
+180429,El Nasser
+180430,El Shahid Mohamed Abd El Mola Fame Is 5 Bezour
+180431,
+180432,El Shahid Mohamed Farag Fame Name Is 7 Bezor
+180433,
+180434,
+180435,
+180436,
+180437,El Khamsa
+180438,El Sadesa
+180439,El Rabaah
+180440,El Thamnah
+180441,Ola Nasser
+180442,El Ezah
+180443,El Mothelath
+180501,Kafr El Dawar City
+180502,El Saranaia
+180503,El Akresha
+180504,Berdala
+180505,Kafr Saliem
+180506,
+180601,Abeas El Mostagada
+180602,El Omaraa
+180603,El Baslakon
+180604,El Beida
+180605,El Tamama
+180606,El Khodra
+180607,El Tarh
+180608,Al Aaly
+180609,El Arkob
+180610,El Karyoun
+180611,El Kanayas
+180612,El Meala
+180613,El Nasho El Bahary
+180614,El Westania
+180615,Zohrah
+180616,Sedi Ghazy
+180617,Seira
+180618,Ezab Defsho
+180619,Kombaieit Abo Qeir
+180620,Kombaieit Lokein
+180621,Kang Osman
+180622,Koum Esho
+180623,Kom El Barka
+180624,Kom El Tarafaia
+180625,Koum Defsho
+180626,Loken
+180627,Mamal El Zogag
+180628,Monshaet El Helbawy
+180629,Monshaet Basiony
+180630,Monshaet Balbaa & Boleen
+180631,Monshat Amer
+180632,Monshat Younies
+180633,Abes El Thaletha
+180634,Abes El Rabaah
+180635,Abes El Khamsa
+180636,Abees El Sadesa
+180637,El Hagez
+180638,Abu El Noum
+180701,Edko City
+180702,El Maadaya
+180703,Mansheyet Debono
+180704,6 Octouber
+180801,Rashid City
+180802,Adfena
+180803,El Taftesh
+180804,El Gadaia
+180805,El Gededa
+180806,El Hamad
+180807,El Sahel
+180808,El Shmasama
+180809,
+180810,
+180811,El Koum
+180812,El Meala
+180813,Borg Rasheid
+180814,Deby
+180815,Sedi Omar
+180816,Mahalet El Amir
+180817,Mansheyet Alwan
+180901,Abu Homos City
+180902,Abo El Khazar
+180903,El Garadat
+180904,El Gorn
+180905,El Harfa
+180906,El Razqah
+180907,El Zainy
+180908,El Shahid Gawad Hosny - Koum El Basal Prev
+180909,El Sakhra
+180910,El Ghaba
+180911,El Qarawy
+180912,
+180913,Berseik
+180914,Berket Ghatas
+180915,Besentawy
+180916,Batrous
+180917,Belqatr El Sharkia
+180918,Deswns El Helfaia
+180919,Deirames
+180920,Rawdet Khairy
+180921,Zawiet Naeim
+180922,Sahaly
+180923,Tolobat Halaq El Gamal
+180924,
+180925,Kafla
+180926,Kafr Hasam
+180927,Kafr Azaz
+180928,Kom El Kanatara
+180929,Mahalet Keel
+180930,Monshaet El Wakeel
+180931,Monshat Demisna
+180932,Western Belktr
+181001,
+181002,El Atf
+181003,El Qasr
+181004,El Lawaya
+181005,Desia El Kanaies
+181006,Dairot
+181007,Sernbay
+181008,Sana Bada
+181009,Sedi Oqba
+181010,Ezab Besentawy
+181011,Fazara
+181012,Fesha Blkha
+181013,Kafr El Rahmanaia
+181014,Kafr Amleet
+181015,Kafr Tekla
+181016,Koum El Nasr
+181017,Monshaet Aremon
+181018,Menyet El Saied
+181019,
+181020,
+181021,
+181101,
+181102,Abo Kharash
+181103,El Abreqegy
+181104,El Ashrak
+181105,El Ahokya
+181106,El Kafr El Gadid
+181107,El Magd - Morqos Prev
+181108,Beweit
+181109,Dershaba
+181110,Samadeis
+181111,Samakhrat
+181112,Ezbet El Bakawat
+181113,
+181114,
+181115,Ezbet Hussein Kabodan
+181116,Ezbet Kafr Ghonaim
+181117,Kafr El Shakh Hasan
+181118,Kafr Ghonem
+181119,Kafr Mahalet Dawod
+181120,Mahalet Sabeat
+181121,Mahalet Dawod
+181122,
+181123,Nezaret El Ensha
+181124,
+181125,Nazaret El Mania
+181126,Nezart Bowet
+181127,Nazaret Smadeas
+181201,Shubra Khet City
+181202,Abatok
+181203,Abo El Sahma
+181204,Abo Dora
+181205,Ado Mangog
+181206,Abo Yahya
+181207,Ismania
+181208,El Aslab
+181209,El Rabdan
+181210,El Manashlaa
+181211,Um Hakim
+181212,Amry
+181213,Orein
+181214,Gezeiret Nakla
+181215,Zam Zam
+181216,Shubra Reis
+181217,Ezbet Ibraheim Agha
+181218,Ezbet El Eshrak
+181219,Ezbet El Gokhdar
+181220,Ezbet El Shamashergy
+181221,
+181222,
+181223,Ezbet Hassen El Deib
+181224,
+181225,Ezbet Fath Allah El Gazar
+181226,Ezbet Farnawy
+181227,Ezbet Kafr El Saby
+181228,Ezbet Yaqoub
+181229,Ezbet Youssief Kamil
+181230,Farnawy
+181231,Kafr El Dafrawy
+181232,Kafr El Saby
+181233,Kafr El Sanadedy
+181234,Kafr Khoder
+181235,Kafr Osman
+181236,Kafr Koshkash
+181237,Kafr Mostatan
+181238,Kaneset Orean
+181239,Lakana
+181240,Mahalet Bashr
+181241,Mahalet Sa
+181242,Mahalet Farnawy
+181243,Mahalet Kaes
+181244,Mahet Naser
+181245,
+181246,
+181247,
+181248,
+181301,Etay El Baroud City
+181302,Ebrak Hammam
+181303,Asaraiat Fadel
+181304,Armania
+181305,Ashlema
+181306,El Ibrahimaia
+181307,El Bahy
+181308,El Tawfiqeyah
+181309,El Houty
+181310,El Khawaled
+181311,El Daramalaia
+181312,El Roka
+181313,El Shaeara
+181314,El Dahreyah
+181315,El Awamer
+181316,El Euon
+181317,El Nebeira
+181318,El Nokrash
+181319,Omleet
+181320,Berkama
+181321,Telbana
+181322,Gabares El Bahria
+181323,Gabares El Kablia
+181324,Geaif
+181325,Genbway
+181326,
+181327,Hod Fares
+181328,Khamara
+181329,Dakdoka
+181330,Demeisna
+181331,Rabea Shendeid
+181332,Ramseis
+181333,Zabedah
+181334,Shubra El Nona
+181335,Shasht El Anaam
+181336,Shenait El Harbwa
+181337,Safia
+181338,Saft El Horia - Saft El Melouk Prev
+181339,Saft Khaled
+181340,Zahr El Temsah
+181341,Ezbet Rady - Abo Zoraik Previous)
+181342,Ezbet Hod Fares
+181343,Ezbet Talat
+181344,Ezbet Youssef El Askary
+181345,Kadous
+181346,Keilshan
+181347,Kafr Abo Mandor
+181348,Kafrel Haga
+181349,Kafr El Saka
+181350,Kafr El Shakh Makhlof
+181351,Kafr El Ghaba
+181352,Kafr Khalefa
+181353,Kafr Askar Shedied
+181354,Kafr Askar Saft
+181355,Kafr Awana
+181356,Kafr Mosaad
+181357,Kafr El Sawalem El Bahary
+181358,Kafr El Sawalem El Qebly
+181359,
+181360,Mahalet Abead
+181361,Manaia
+181362,Monshaet El Serafy
+181363,Monshat El Nasr Monshat Kamel Previous
+181364,Menyet Bani Mansour
+181365,Nakla El Enab
+181401,
+181402,Ibrahimaia Mahana
+181403,Absom El Sharkaia
+181404,Absom El Gharbaia
+181405,Abu El Khawy
+181406,Abyouqa
+181407,El Briegat
+181408,El Blakos
+181409,El Haden
+181410,El Dakhly
+181411,El Zaafrany
+181412,El Sawaf
+181413,El Tod
+181414,El Tabaraia
+181415,El Kalawat
+181416,El Negeila
+181417,El Naqedy
+181418,Breim
+181419,Bolein El Fawaied
+181420,Telbeka
+181421,Beban
+181422,Kherebta
+181423,Kheneiza
+181424,Dest El Ashraf
+181425,Demeito
+181426,Damashly
+181427,Zawiet El Bahr
+181428,
+181429,Zawiet Mobarak
+181430,Serseika
+181431,Salamon
+181432,Shabour
+181433,Shubra Oseim
+181434,Saft El Enab
+181435,
+181436,Aklam
+181437,Kafr El Eas
+181438,Kafr Bawlen
+181439,Kafr Dammatyawa
+181440,Kafr Zaiada
+181441,Kafr Salamon
+181442,Kafr Ghanem
+181443,Kafr Gharen
+181444,Kafr Magahed
+181445,Kom Shrek
+181446,Mahalet Ahmed
+181447,Moghanaien
+181448,Mliha
+181449,
+181450,Monshaet El Gorbagy
+181451,
+181452,Monshaet Rady
+181453,Monshat Aly Mahana
+181454,Meet Yazed
+181455,Netma
+181456,Waqed
+181501,Badr City
+181502,Ahmed Oraby
+181503,Om Saber
+181504,Abd El Hameid Abo Zaid
+181505,Omar Shahin
+181506,Omar Makram
+181507,Salah El Dein
+181508,Nabel El Wakad
+181509,Baghdad
+181510,Hera
+181511,Khaled Ibn El Walid
+181512,
+181513,Osman Ebn Afan
+181514,Ali Ibn Abi Taleb
+181515,Kamal El Deen Salah
+181516,El Tal El Kaber
+181517,El Azema
+181518,El Faloga
+181519,El Kefah
+181520,El Nagah
+181521,El Maaraka
+181522,Eain Galout
+181523,Abu Bakr El Sediq
+181524,El Khartom
+181525,El Magd
+181526,Omar Ebn El Khatab
+181527,Palestine
+181528,
+181529,H El Eman 1
+181530,Seen - Amr Ibn El Aas
+181531,T El Eman 2
+181532,
+181533,Mustafa Kamel
+181534,Y El Eman 3
+181601,El Delengat City
+181602,Abo Saiefa
+181603,Abo Samada
+181604,Abo Masoud
+181605,Abia El Hamra
+181606,Atlimis
+181607,El Bostan
+181608,El Hagar El Mahrok
+181609,El Khlilaia
+181610,El Elameyah
+181611,El Moseen
+181612,
+181613,El Wafaeia
+181614,El Yousefia
+181615,Gazaeir Eisa
+181616,Dershay
+181617,Rezfa
+181618,
+181619,Zawiet Hamora
+181620,Zawiet Mosalam
+181621,Kom Zomran
+181622,Teba
+181623,
+181624,Ezbet El Qasy Matroud
+181625,Ezbet El Menshawy El Lahalah
+181626,Ezbet Saad Daoud
+181627,Ezbet Sherket El Etehad
+181628,
+181629,Kebour El Omaraa
+181630,Kamha
+181631,Kafr Lahmer
+181632,Kom Zomran
+181633,Lahmer
+181634,
+181635,
+181636,
+181637,Monshat Fadel
+181638,Moasaset El Bostan
+181639,El Orouba
+181640,El Bostan Qebly El Nobaraia
+181641,El Ezbah El Hamraa
+181642,Abd El Meguid Saleh
+181643,El Imam El Housein
+181644,El Imam El Ghazaly
+181645,Ahmed Ramy
+181646,
+181701,Wadi El Natroun City
+181702,El Gaar
+181703,El Hamraa
+181704,Bani Selama
+181705,Kafr Dawoud
+181710,El Tawhid
+181711,Um El Moamenen
+181716,El Tabarany
+181717,El Safa & El Marwa
+181801,
+181802,New El Sediq
+181803,Abu El Ata
+181804,Taha Hussein
+181805,Ahmed Shawqy
+181806,Saad Zaghlol
+181807,El Nour
+181808,El Shagaah
+181809,Mohamed Abd El Raqeb
+181810,Abd El Halim Mahmoud
+181811,El Adl
+181812,El Mothtasmeren
+181813,El Masnaa
+181814,Mohamed Azzam
+181815,Ahmed Badawy
+181823,Othman Moharam
+1898,Kharegeen Village
+1898,Kharegeen Village
+1898,Kharegeen Village
+1898,Kharegeen Village
+1898,Kharegeen Village
+1898,Kharegeen Village
+189999,
+190101,El Temsah
+190102,El Abasy
+190103,Mecca
+190201,
+190202,El Salam El Hekr
+190203,Monshait El Shohada
+190301,Hay El Shaikh Zaid
+190401,El Dabeyah
+190402,Ain Ghusin
+190403,Nafisha
+190404,El Firdan El Gididaa
+190501,
+190502,El Akharsah
+190503,El Banahwa
+190504,El Baiadaia
+190505,
+190506,El Fardan
+190507,Abo Khalifa
+190508,El Nasr
+190601,
+190602,El Abtal
+190603,El Taqadoum
+190604,Gilbana
+190605,Meet Abu El Koum El Gededa
+190606,El Salam El Gededa
+190612,Beer El Orouk
+190613,Beer Hebetah
+190614,Beer Madkour
+190615,Gabal Um Khasheeb
+190701,Fayed City
+190702,Abo Sultan
+190703,Sarabium
+190704,Fanara
+190801,
+190802,Abo Sawir El Balad
+190803,El Saba Abar El Sharkaia
+190804,El Sabaa Abaar El Gharbia
+190805,El Manaif
+190806,
+190901,El Tal El Kbeer City
+190902,Abo Ashour
+190903,El Gazirah El Khadra
+190904,El Dahria
+190905,El Qassasin El Qadima
+190906,El Shrouk
+191001,
+191002,
+191003,Um Azam
+191004,El Wady El Akhadar
+199899,Surrounded By Desert To Abu Sower Center
+199999,Surrounded By Desert To El Tal El Kebeer Center
+210101,
+210102,
+210103,
+210104,
+210105,Kafer El Shawam
+210106,Meet Kardak
+210107,Abd El Naem - Ezbet El Saaydaa Previous
+210108,
+210109,Tag El Dewal
+210201,El Hwaitaia
+210202,El Agoza
+210203,Meet Okba
+210204,El Eelam - El Awqaf City
+210205,El Mohandessn
+210206,Ard El Lewaa
+210301,
+210302,
+210303,
+210304,
+210305,
+210306,El Orman
+210401,El Moneib
+210402,
+210403,
+210404,
+210405,
+210406,
+210407,Sakiet Meky
+210408,
+210409,
+210410,
+210411,
+210501,
+210502,Bolak El Dakror
+210503,Zenein
+210504,Kafr Tohormos
+210505,
+210506,Saft El Laban
+210507,
+210601,Sheiakha Ola
+210601,
+210603,
+210701,Sheiakha Ola
+210702,El Talbeyah
+210703,El Koum El Akhdar
+210704,El Kanisah
+210801,Kafr El Gabal
+210802,Kafr Nassar
+210803,Nazlet El Batran
+210804,Nazlet El Saman & El Sessy
+210805,Kafr Kaabish
+210901,Abu El Nomros City
+210902,El Hranaia
+210903,El Manawat
+210904,Tersa
+210905,Zawiet Abo Mosalam
+210906,Shubra Mant
+210907,Tamwa
+210908,Manil Sheha
+210909,Meet Shamas
+210910,Meet Qadous
+210911,Nazlet El Ashtar
+210912,Bani Suif
+211001,
+211002,El Sheikh Etman
+211003,Um Khenan
+211101,El Badrasheen City
+211102,Abu Ragwan El Bahary
+211103,Abo Ragwan El Qebli
+211104,Abu Seer
+211105,El Shenbab
+211106,El Shonak El Gharby
+211107,El Trfaiah
+211108,El Azizeyah
+211109,El Maraziq
+211110,Dahshour
+211111,Zawyet Dahshour
+211112,Zahran Wa Gaber
+211113,Saqara
+211114,Qelet El Maraziq
+211115,Mazghouna
+211116,Monshaet Dahshour
+211117,Monshaet Kaseb
+211118,Meet Rahina
+211119,Nazlet El Shobak
+211201,El Ayat City
+211202,Abo El Abas
+211203,Abo Rawish
+211204,El Barghoti
+211205,El Belida
+211206,El Gomla
+211207,El Danaweya
+211208,El Reqa El Gharbia
+211209,El Saudia
+211210,El Ammria - Abu Far Prev
+211211,El Atf
+211212,El Qotouri
+211213,El Lesht
+211214,El matania
+211215,El Masanda
+211216,el maktafia
+211217,El Nasria - El Moaarkab Prev
+211218,Baget Ash - Sheikh
+211219,Badsa
+211220,Brenshet
+211221,Bamha
+211222,Bahbit
+211223,Baydaf
+211224,Gerza
+211225,Zawyet Abu Seweilam
+211226,Tahma
+211227,Kafr El Refai
+211228,Kafr El Dabai
+211229,Kafr Barakat
+211230,Kafr Torki Wa Kafr Tarkhan
+211231,Kafr Gazarah
+211232,Kafr Hamid
+211233,Kafr Shehata
+211234,Kafr Ammar
+211235,Kafr Qasem
+211236,
+211237,Monshaet Abd El Sayed
+211238,Mansheyet Fadel
+211239,Meet El Qayed
+211301,El Saf City
+211302,Isker
+211303,El Akhsas
+211304,El Aqwaz
+211305,El Gazira El Shaqraa
+211306,El Hay Wa El Mansha
+211307,El Deseimi
+211308,El Shorafa Wa El Ateyat
+211309,El shobek El Sharky
+211310,El Fahmeen
+211311,El Menya
+211312,El Wadi
+211313,Arab El Hesar
+211314,Arab El Abayda
+211315,Ghamaza El Soghra
+211316,Ghamaza El Kobra
+211317,Kafr Tarkhan
+211318,Nogoua El Arab
+211319,Nazlet Elyan
+211320,Ezbet El Hesar El Baharia
+211401,Atfeh City
+211402,El Barmel
+211403,El Helf
+211404,El Helf El Gharbi
+211405,El Kharman
+211406,
+211407,
+211408,El Saleheyah
+211409,El Qebabat
+211410,El Kadaya
+211411,El Krimat
+211412,Bany Saleh
+211413,Geziret El Kremat
+211414,Deer El Maimon
+211415,Sol
+211416,Kom El Wasleen
+211417,Kafr Halawa
+211418,Kafr Qandil
+211419,Majid Mousa
+211420,Monshat Solyman
+211421,
+211422,Manyel El Soltan
+211423,Nazlet Torgom
+211501,
+211502,
+211503,Nahia
+211504,Berket El Khaiam
+211505,Abo Rawash
+211506,Bani Magdoul
+211507,Kombarah
+211508,Kafr Hakim
+211509,El Motamadeyah
+211601,Awsem City
+211602,El Baragil
+211603,El Zaydeya
+211604,El Qaratyeen
+211605,El Koum El Ahmar
+211606,Bartas
+211607,Zawyet Thabet
+211608,Saqil
+211609,Shenbari
+211610,Sedah
+211611,Gazeiret Mohamed
+211612,Tanash Wa Nazlet El Zomr
+211613,Bashteil
+211701,
+211702,
+211703,
+211704,
+211705,Gazirat Waraq El Hadar
+211801,
+211802,Abi Ghaleb
+211803,Atrees
+211804,El Akhsas
+211805,El Gelatma
+211806,El Hagez
+211807,El Hasaneyin
+211808,El Rahawi
+211809,El Sabeal
+211810,El Qata
+211811,El Manashy
+211812,El Mansoria
+211813,Um Denar
+211814,Barqash
+211815,Bani Selama
+211816,Bohormos
+211817,Gezaya
+211818,Zat El Kom
+211820,Kafr Abu El Hadid
+211821,Mansheyat Radwan
+211822,Mahmoud Abd El Samad
+211823,Nekla
+211824,Wardan
+211825,Kafr Hegazi
+211901,El Shikh Zaid City
+2120,
+2120,
+2120,
+212001,El Sheyakha El Ola
+212002,
+212003,
+212004,
+212005,
+212006,
+2121,
+2121,
+2121,
+212101,
+212102,
+212103,
+212104,
+212105,
+212106,
+212201,El Baweety City
+212202,El Tabnia
+212203,El Harah
+212204,El Zebw
+212205,El Gharbia
+212206,El Agouz
+212207,El Qebalah
+212208,El Qasr
+212210,Ezbet El Gazaer
+212211,Ezbet Ain Ql Qosser
+212212,Ezbet Mawoud
+212213,Ain El Ghazah
+212214,Rees
+212215,Tabl Amoun
+212216,Mandesha
+219899,Surrounded By Desert To El Wahat El Baharia
+219999,
+219999,
+220101,El Gezera Kebly
+220102,El Rahba & El Gebaly
+220103,El Ghamrawy
+220104,El Mermah Bahary
+220105,Bany Ateyaa
+220106,Sook El Khodar
+220107,Mogbel
+220108,Moled El Naby
+220109,El Marmah Qebly
+220110,El Giza Bahary
+220201,Abshna & Bani Mousa
+220202,El Hakamnah
+220203,El Helabeyah
+220204,El Daweltah
+220205,El Daweyah
+220206,El Koum El Ahmar
+220207,Ahnasia El Khadraa
+220208,Ahwah
+220209,Barout
+220210,Baha El Agouz
+220211,Belfya
+220212,Bani Bekhit
+220213,Bani Hamad
+220214,Bani Radwan
+220215,Bani Solayman Ash - Sharqeyah
+220216,Bani Affan
+220217,Bani Haroun
+220218,Bayad El Arab
+220219,Tezment El Sharqeyah
+220220,Tezment El Gharbeyah
+220221,Hajer Bani Solayman
+220222,Damoshya
+220223,Riyad Basha
+220224,Senour
+220225,Sherif Basha
+220226,Monshat Heidar Yakan
+220227,Monshaet Assem
+220228,Manqarish
+220229,Nazlet Abu Selim
+220230,
+220231,Nazlet Maarek
+220232,Naim
+220233,El Zaraby
+220234,Tal Narouz
+220301,
+220401,Ahnasia City
+220402,Adraseyah
+220403,El Bahsamon
+220404,El Shubak
+220405,El Awawnaا
+220406,El Masid El Abyad
+220407,El Neweirah
+220408,Barawet El Waqf
+220409,Bani Hani
+220410,Bahnoh
+220411,Deir Barawah
+220412,Sadment El Gabel
+220413,Sharhi
+220414,Tama Fayoum
+220415,Qay
+220416,Qela
+220417,Qelha
+220418,Kafr Abo Shahebah
+220419,Koum El Raml El Bahary
+220420,Masaret Nasan
+220421,
+220422,Monshat El Badini
+220423,Monshat El Hajj
+220424,Monshat Taher
+220425,
+220426,Monshat Kasab
+220427,Manharah
+220428,Menehro
+220429,Manyal Gheidan
+220430,Manyal Hani
+220431,Mayanah
+220432,
+220433,Nazlet El Mamalik
+220434,Nazlet Khalaf
+220435,Nazlet Shawish
+220436,Nena & Bahnana
+220437,El Ansar
+220501,Beba City
+220502,Abo Shoryan
+220503,El Baranqah
+220504,El Bekreyah
+220505,
+220506,El Soltani
+220507,El Dabaana
+220508,El Foqaei
+220509,El Melaheyah
+220510,
+220511,Om El Ganazir
+220512,El Shahid Hasan Allam
+220513,Bani Ahmad
+220514,Bani Khalil
+220515,Bani Oqbah
+220516,Bani Awad
+220517,Bani Qasem
+220518,Bani Madi
+220519,Bani Mohamed Ash - Sharqeyah
+220520,Bani Momenah
+220521,Bani Hashem
+220522,Gabel El Nour
+220523,Gazirat El Feqaey
+220524,Gazirat Beba
+220525,
+220526,
+220527,Sods El Omraa
+220528,Saft Rashin
+220529,Taha Labisha
+220530,Tarshoub
+220531,Tansa Bani Malo
+220532,Towah
+220533,
+220534,
+220535,Fazara
+220536,Qanbash El Hamraa
+220537,Kafr Gomaa
+220538,Kafr Mansour
+220539,Kafr Naser
+220540,
+220541,Menyet El Gid
+220542,Manyal Mousa
+220543,
+220544,Nazlet El Sharif
+220545,Nazlet Ali Kelani
+220546,Herbesht
+220547,Helyah
+220601,Samasta City
+220602,El Shantour
+220603,El Asakra
+220604,El Qasabah
+220605,El Mahmoudeyah
+220606,Badhel
+220607,Bani Helah
+220608,Bani Mohamed Rashed
+220609,Dashashah
+220610,Dashtot
+220611,Serbo
+220612,Ezbet El Shantour
+220613,Ezbet Qaftan
+220614,Kafr El Sheikh Abed
+220615,Kafr Bani Eli
+220616,Koum El Raml El Qebly
+220617,Kom El Nour
+220618,Mazoura
+220619,
+220620,Monshat Solyman
+220621,Nazlet El Dib
+220622,Nazlet Saeid
+220623,El Amany
+220624,El Tadamoun
+220701,El Fashn City
+220702,Absog
+220703,Aqfahas
+220704,El Barqi
+220705,El Gafadon
+220706,El Gamhoud
+220707,El Heibah
+220708,El Zawyah El Khadraa
+220709,El Shaqr
+220710,Al Fanth El Sharkia
+220711,El Fant El Gharbeyah - Izbet El Fant Previous
+220712,El Qedabi
+220713,El Qeliaah
+220714,El Kanisah
+220715,Basfa
+220716,Bany Saleh
+220717,Bani Manin
+220718,Telt
+220719,
+220720,Delhanes
+220721,Shenra
+220722,Saleh Farid
+220723,Saft El Kharsah
+220724,Saft El Arfa
+220725,Saft El Nour
+220726,Tala
+220727,Ezbet Telt
+220728,Kafr Darwish
+220729,Kafr Mansabah
+220730,Monshat Amr
+220731,Monshat El Sadat
+220732,Nazlet Aqfahas
+220733,Nazlet El Barqi
+220734,Nazlet Hana Hana
+220735,El Horaia
+220801,El Wasta City
+220802,Abu Seer El Malaq
+220803,Aboit
+220804,Atwab
+220805,Afwah
+220806,El Homah
+220807,El Dayabeyah
+220808,El Masloub
+220809,El Meymoun
+220810,El Nawameis
+220811,El Haram
+220812,Anfast
+220813,Bani Hadir
+220814,Bani Soliman El Baharia
+220815,Bani Ghoneim
+220816,Bani Mohamed El Baharia
+220817,Bani Noseir
+220818,
+220819,Gazirat El Nour
+220820,Zawyet El Masloub
+220821,Saft El Sharqeyah
+220822,Saft El Gharbeyah
+220823,Atf Afwah
+220824,Qamn El Arous
+220825,Kafr Abgig
+220826,Kafr Bani Osman
+220827,Kom Abo Radi
+220828,Kom Adrigah
+220829,Masaret Abo Sir
+220830,
+220831,Maydoum
+220832,Nazlet El Geneedy
+220833,Wena El Qes
+220901,Naser City
+220902,Ashmant
+220903,El Borg
+220904,El Hargah
+220905,El Hamam
+220906,El Reyad
+220907,El Zaiton
+220908,El Mansourah (2 Qesm)
+220909,Bani Khalifah
+220910,Bani Adawy
+220911,Bahbashin
+220912,Gazirat Abu Saleh
+220913,Delas
+220914,Dandil
+220915,Taha Bosh
+220916,Tansa El Malq
+220917,Gheit El Bahari
+220918,Kafr El Gazirah
+220919,Kom Abo Khelad
+220920,
+220921,Monshat Hadib
+229999,Surrounded By Desert To Bani Suif Governorate
+230101,Qesm 1st
+230102,Qesm 2nd
+230103,Qesm 3rd
+230104,Qesm 4th
+230105,Dar El Ramad
+230106,Kahafaa
+230201,Abgig
+230202,Abo El Saoud
+230203,El Elam
+230204,El Basyouneyah
+230205,El Hadqah
+230206,
+230207,El Sonbat
+230208,El Saleheyah
+230209,El Adawa
+230210,El Azab
+230211,El Mandarah
+230212,El Lahon
+230213,El Nasereyah
+230214,Bany Saleh
+230215,Telat
+230216,Desya
+230217,Demeshqin
+230218,Demo
+230219,
+230220,Senofar
+230221,Sila
+230222,Amria El Faioum - El Masloub Prev
+230223,Kfour El Sheikh Fadl
+230224,Kfour El Nil
+230225,Manashi El Khatib
+230226,Monshaet El Gazaer
+230227,Monshaet El Asherey
+230228,Monshaet El Faioum
+230229,Monshaet Boghdady
+230230,Monshaet Damo
+230231,Monshaet Abd Allah
+230232,Monshaet Feteh
+230233,Monshaet Kamal
+230234,Mansheyat Sakran
+230235,Nazlet El Harishi
+230236,Nazlet Bashir
+230237,Hawarat El Maqta
+230238,Hawarat Adlan
+230301,
+230302,Abu Taleb
+230303,El Barani
+230304,El Gomhoryaa
+230305,El Roubeyat
+230306,El Rawdah
+230307,El Azizeyah
+230308,El Fahmeyah
+230309,El Komi
+230310,El Mazatli
+230311,El Maqatlah
+230312,Dar El Salam
+230313,Seresna
+230314,Fanous
+230315,Forqos
+230316,Qasr Rashwan
+230317,Kafr Emirah
+230318,Kafr Mahfouz
+230319,Masaret Sawi
+230320,Monshaet Dr.Gamal
+230321,Meen - Hogmen
+230401,Senouris City
+230402,Abhit El Hagar
+230403,El Akhsas
+230404,El Tawfiqeyah
+230405,El Zawyah El Khadraa
+230406,El Sedaia
+230407,El Seleyin
+230408,El Kaabi El Gadidah
+230409,El Kaabi El Qadimah
+230410,Behmo
+230411,Tersa
+230412,Naqelifah
+230413,Gablah
+230414,Garfas
+230415,Sanhour
+230416,Sanhour El Bahareyah
+230417,Fadimin
+230418,Kafr Fazarah
+230419,Matar Tares
+230420,Monshaet El Dakam
+230421,Monshat El Sadat
+230422,Monshaet Bani Othman
+230423,Monshaet Sanoras
+230424,Monshaet Tantawy
+230425,
+230501,Abshoway City
+230502,Abu Denshaq
+230503,Abu Kasah
+230504,El Gelani
+230505,El Kheledeyah
+230506,El Agameyin
+230507,El Elawa
+230508,El Nasareyah
+230509,Zeid
+230510,Sinro El Qeblyaa
+230511,Senro El Bahareyah
+230512,Shakshouk
+230513,Tabhar
+230514,Tawahy
+230515,Qasr Bayad
+230516,Kafr Aboud
+230517,Monshaet Howidy
+230601,Atsa City
+230602,Abo Gandir
+230603,Abo Dafyah
+230604,Abo Sir Defno
+230605,El Gaadfrah
+230606,El Hamedeyah
+230607,El Hagar
+230608,El Hesenia
+230609,El Seadah
+230610,
+230611,El Awfi
+230612,El Ghaba
+230613,El Gharq
+230614,El Gharq Qebli
+230615,El Qasemeyah
+230616,El Mahmoudeyah
+230617,El Menya
+230618,El Wanaysah
+230619,Bahr Abo El Mir
+230620,Taton
+230621,Gerdo
+230622,Khelaf
+230623,Danyel
+230624,Shdmouh
+230625,
+230626,Ank
+230627,Qasr El Basel
+230628,Qelamshah
+230629,Qalhana
+230630,Kafr El Zafarani
+230631,Kfour Heshmat
+230632,Motawel
+230633,Magoun
+230634,
+230635,
+230636,
+230637,Monshaet Rabea
+230638,Monshaet Rahmy
+230639,Monshaet Ramzy
+230640,Monshaet Saif El Nasr
+230641,Monshaet Sabry
+230642,Monshaet Zafer
+230643,Monshaet Abd El Meguid
+230644,Monshaet Olwy
+230645,Monshaet Faysal
+230646,Nawara
+230647,Harit El Gharbeyah
+230701,Youssef El Sediq City
+230702,El Hamouli
+230703,El Shawashna
+230704,
+230705,Ghesan
+230706,El Mashrak Qebli
+230707,El Maqrani
+230708,El Nazlah - El Robaa
+230709,Batn Ahrit (El Khawagat)
+230710,Rawaq
+230711,Shelan
+230712,Qaroun
+230713,Qasr Abu Lateaah Basel
+230714,Qasr El Gebeli
+230715,Kahk
+230716,Wadi El Rayan
+230717,Mousa Mezar
+230718,Ali Basha El Rouby
+230719,Sayedna El Khedr
+230801,
+239999,Surrounded By Desert To El Faioum Governorate
+240101,El Akhsas
+240102,
+240103,
+240104,
+240105,
+240201,
+240202,
+240203,
+240204,
+240205,
+240301,
+240302,
+240303,
+240401,
+240501,Edmo
+240502,El Ismailia
+240503,El Borgayah
+240504,El Hawartah
+240505,El Hawaseleyah
+240506,El Dawawdeyah
+240507,
+240508,Bani Ahmad
+240509,Bani Hasan El Ashraf
+240510,Bani Hammad
+240511,Bani Qamgar
+240512,Bani Mohamed Soltan
+240513,Bani Mahdi - Nazlet Mahdi Previous
+240514,Bahdal
+240515,Telah
+240516,Damaris
+240517,Demsha & Hashem
+240518,Damshir
+240519,Dayr Ateyah
+240520,Redah
+240521,Zawyet Soltan
+240522,Zohrah
+240523,Sawada
+240524,Saft El Khemar El Asleyah
+240525,Saft El Khemar El Sharqeyah
+240526,Saft El Khemar El Gharbeyah
+240527,Saft El Laban
+240528,Tahna El Gabel
+240529,Tahansha
+240530,Tokh El Kheil
+240531,Towah
+240532,Maqousah
+240533,
+240534,
+240535,
+240536,Mahdaia
+240537,Nazlet El Felahin
+240538,Nazlet Hussein Ali
+240539,Nazlet Ebeid
+240540,Nazlet Farag Allah Matta
+240541,Hehya
+240542,Qaryet 7 El Kamal
+240543,Qaryet 8 El Amal
+240601,
+240602,Abo El Safa
+240603,Abo Qurqas
+240604,Abyouha
+240605,Atlidam
+240606,Asmant
+240607,El Barba
+240608,El Hesaneyah
+240609,El Sahalah
+240610,El Soltan Hasan
+240611,El Sinbelawein
+240612,El Sheikh Tamy
+240613,El Foqaei
+240614,El Karam
+240615,
+240616,El Nahal(To Include El Mabraz)
+240617,Kafr El Fela
+240618,Bani Hasan As - Sherouq
+240619,Bani Khayar
+240620,Bani Saeid
+240621,Bani Ebeid
+240622,Bani Mohamed Sharawi
+240623,Bani Mousa
+240624,Greis
+240625,
+240626,Rihanah
+240627,Zawyet Hatem
+240628,Zafaranah
+240629,Saqyet Mousa
+240630,Safay
+240631,Shararah
+240632,Sanim
+240633,Kafr El Fela
+240634,Kafr Labas
+240635,Kom El Zoheir
+240636,Kom El Mahras
+240637,Mantoub
+240638,Mansafis
+240639,Monshat El Nasr Monshat Kamel Previous
+240640,Monshat Debes
+240641,
+240642,Manhari
+240643,Nazlet Asmant
+240644,Nazlet El Serw
+240645,Nazlet Awlad Gawid
+240646,Nazlet Gerees
+240647,Nazlet Herz
+240648,Nazlet Makin
+240701,Qesm 1st
+240702,Qesm 2nd
+240703,Qesm 3rd
+240704,Qesm 4th
+240801,Abshadat
+240802,Abo Qelta
+240803,Atqa
+240804,El Edarah
+240805,El Ashmoneen
+240806,El Baragil
+240807,El Barsha
+240808,El Berkah
+240809,El Baiadaia
+240810,El Rawdah
+240811,El Horia - Ibrahim Awd Prev
+240812,El Rayramon
+240813,El Sawahgma
+240814,El Sheikh Hussin
+240815,El Sheikh Shebeka
+240816,El Sheikh Abadah
+240817,El Arin Bahari
+240818,El Arin Qebli
+240819,El Mahras
+240820,El Masarah Bahari
+240821,Umm Qams
+240822,Bani Hafez
+240823,Bani Khaled
+240824,Bani Roh
+240825,Tendah
+240826,Tuna El Gabal
+240827,Galal El Sharqeyah
+240828,Daroh
+240829,Deer Abu Hens
+240830,Dayr El Barsha
+240831,Dairout Um Nakhla
+240832,Sengerg
+240833,Sharawi
+240834,
+240835,Ezbet Mostafa Hamdi
+240836,Qasr Hor
+240837,Qelba
+240838,Qelandoul
+240839,
+240840,
+240841,Monshaet Saif El Nasr Mohamed
+240842,Nagaa Markeb
+240843,Nazlet El Arin Qebli
+240844,Nazlet Tanda
+240845,Nazlet Touna
+240846,Nazlet Hamzawi
+240847,Nazlet Sharmoukh
+240848,Naway
+240849,Hor
+240901,Dayr Mowas City
+240902,Abu Khelqa
+240903,Asmo El Arous
+240904,El Badraman
+240905,El Hag Qandil
+240906,El Rahmanaia
+240907,El Sawalem
+240908,El Omarayaa
+240909,
+240910,El Nasria
+240911,Bani Haram
+240912,Bani Salem
+240913,Bani Omran
+240914,Tanof
+240915,Tel Bani Omran
+240916,Gazirat Tel Bani Omran
+240917,Abu Khelqa
+240918,Zaabara
+240919,Tokh
+240920,Ezab Tel Bani Omran
+240921,Kafr Khozam
+240922,
+240923,Monshat Samhan
+240924,Nazlet El Badraman
+240925,
+240926,Nazlet Awlad Morgan
+240927,Nazlet Saeid
+240928,Nazlet Abd El Masih
+240929,Nazlet Mohamed Samhan
+240930,Nazlet Mahmoud
+241001,Samalout City
+241002,Atsa
+241003,El Biho
+241004,El Tawfiqeyah
+241005,El Gazaer
+241006,El Galah
+241007,
+241008,
+241009,El Sarareyah
+241010,El Sahraynah
+241011,El Sharaweyah
+241012,El Awaysah
+241013,Bani Khaled
+241014,Gabel El Teir
+241015,Dayr Gabel El Teir
+241016,Qlosna
+241101,Ibrahim Basha
+241102,Abo Sidhom
+241103,Astal
+241104,El Halmaia
+241105,El Rawdah
+241106,El Salam
+241107,El Sheukh Abd Ellah
+241108,El Tibah
+241109,El Gharbawi
+241110,El Qotoushah
+241111,El Qamadir
+241112,Bani El Hakam
+241113,Bani Samarg
+241114,Bani Ghani
+241115,Bogah
+241116,Hassan Basha
+241117,Daqouf
+241118,Dafsh
+241119,Delqam
+241120,Dayr Samalout
+241121,Saqyet Daqouf
+241122,Shoushah
+241123,Taha El Amedah
+241124,Torfa El Bahary
+241125,Ezbet El Qamadir
+241126,El Rouby - Koum El Raheb Prev
+241127,Kom El Lofi
+241128,Monshat Badini
+241129,Monshat Manqatin
+241130,Mansheyat El Sheraey
+241131,Manqatin
+241132,Nazali Taha
+241133,Nazlet El Amoudein
+241134,Nazlet Shadi
+241135,El Azema
+241136,El Wafaa
+241137,El Eetezaz
+241138,El Rakhaa
+241139,El Ola
+241140,Tarfa El Qeblia
+241201,Matay City
+241202,Abgag El Hatab
+241203,Abwan
+241204,Abo Hasibah
+241205,Abu Shehata
+241206,Abo Aziz
+241207,Adqaq El Mesk
+241208,El Atlat
+241209,El Rawdah
+241210,El Sheikh Hasan
+241211,Bard Nouha
+241212,Bani Ammar
+241213,Gawadah
+241214,Helwa
+241215,
+241216,
+241217,Ezbet Hawarah
+241218,Kafr El Kawadi
+241219,Kfour El Soleyah
+241220,Kom Matay
+241221,Kom Wali
+241222,Marzouq
+241223,Manbal
+241224,Monshat Lotf Allah
+241225,Monshat Manbal
+241226,Nazlet Awlad El Sheikh
+241227,
+241301,Bani Mazar City
+241302,Abshaq El Ghazel
+241303,Abtoga
+241304,Abo El Abas
+241305,Abo Gerg
+241306,Ashroubah
+241307,Aeto El Waqf
+241308,
+241309,El Garnous
+241310,El Gendeyah
+241311,El Hesenia
+241312,El Saadia
+241313,El Salam
+241314,El Senareyah
+241315,El Sheikh Atta
+241316,El Sheikh Fadl
+241317,El Qeis
+241318,El Mawadah
+241319,El Nasria - El Garabea Prev
+241320,El Nagah
+241321,Umm El Sas
+241322,Bardonat El Ashraf
+241323,
+241324,Bani Samet
+241325,Bani Ali
+241326,Hamaddah
+241327,Dayr El Sanqoureyah
+241328,Saqoulah
+241329,Shelqam
+241330,Saft Abu Gerg
+241331,Sandafa
+241332,Tenbo
+241333,Kafr Abo El Oudein
+241334,Kafr El Sheikh Ibrahim
+241335,Masaret Hagag
+241336,
+241337,Monshaat El Sheikh Fadl
+241338,Monshat El Qeisi
+241339,Monshat El Yousefi
+241340,Monshat Bakir
+241341,Monshat Galal
+241342,Nazlet El Dalil
+241343,Nazlet Khalaf
+241344,Nazlet Amr
+241345,Ezbet El Khalil Ibrahim
+241401,
+241402,Abar El Waqf
+241403,Abu Besht
+241404,Ashnin El Nasary
+241405,Atnyah
+241406,El Belazatin
+241407,El Tahrer
+241408,El Zawrah
+241409,El Sheikh Zeyad
+241410,
+241411,El Koum El Akhdar
+241412,Bartabat
+241413,Belhasah
+241414,Bani Khaled
+241415,Bani Khalaf
+241416,Bani Walams
+241417,
+241418,Hamedah El Gendi
+241419,Dahrout
+241420,Dehemro
+241421,Dayr El Garnos
+241422,Zawyet El Gadamy
+241423,Sharonah
+241424,Sham El Basal El Bahreyah
+241425,Sham El Basal El Qebleyah
+241426,Tanbadi
+241427,Ebad Sharonah
+241428,Qafada
+241429,Kafr El Salehin
+241430,Kafr El Medawer
+241431,Kom El Hasel
+241432,Melateyah
+241433,Monshat Lamloum
+241434,Monshat Neyazi
+241435,Mayanet El Waqf
+241436,Nazlet Ahmad Younes
+241437,Nazlet Awlad El Sheikh
+241438,
+241439,Nazlet Bani Khalaf
+241440,Nazlet Dahrout
+241441,
+241442,Qaryet 7 El Tawfiq
+241501,
+241502,El Baghour
+241503,El Basqelon
+241504,El Sheikh Masoud
+241505,El Aqleyah
+241506,El Qeyat
+241507,El Moseed
+241508,Ban El Alm
+241509,Barmasha
+241510,Bany Amer
+241511,Bani Warkan
+241512,Zawyet Beremsha
+241513,Selaqos
+241514,Safaneyah
+241515,Atf Heidar
+241516,Kafr El Maghrabi
+241517,Kafr Abd El Khaleq
+241518,Kafr Mahdi
+241519,Mofwaz Tibah
+241520,
+241521,Monshaet El Sawy
+241522,
+241523,Monshaet Abd Allah Lamloum
+241524,Nazlet Ramadan
+241525,Qaryet 4 El Gehad
+241526,Qaryet 5 El Aqdam
+241527,Qaryet 6 El Nasr
+249999,Surrounded By Desert To El Menia Governorate
+250101,El Ola
+250102,El Thania
+250103,El Thaletha
+250104,El Rabaah
+250105,El Khamsa
+250106,El Sadesa
+250107,El Sharekat
+250108,El Madabegh - Gabanet El Moslimeen
+250109,El Besawy
+250201,El Hamra El Ola
+250202,El Hamra El Sanaia
+250203,
+250204,
+250205,
+250206,
+250301,El Bora
+250302,El Hasany
+250303,El Zawia
+250304,EL Shaghba
+250305,El Ader
+250306,El Mateaa
+250307,El Namaysa
+250308,El Hedaya
+250309,Awlad Ibrahim
+250310,Awlad
+250311,Awlad Ali
+250312,Bany Hussein
+250313,Bani Ghaleb
+250314,Bahig
+250315,Drenka
+250316,Deer Drenka
+250317,Refa
+250318,salam
+250319,Shatab
+250320,Elwan
+250321,Qerqas
+250322,Mesrea
+250323,Manqabad
+250324,Mousha
+250325,Nagaa El Eisawia
+250326,Nagaa Sabaa
+250327,Nagaa Abd El Rasoul Abu Hassouba
+250328,Nogoaa Bani Hussien
+250329,Nazlet Abd Ellah
+250401,Abo Teeg City
+250501,Abo Khars
+250502,El Akadmaa
+250503,El Baliza
+250504,El Zaraby
+250505,El Zeraia
+250506,El Masaudy
+250507,El Nekheila
+250508,Bakour
+250509,Bani Samea
+250510,Dakran
+250511,Deweina
+250512,Nazlet Bakor
+250601,El Ghanayem City
+250602,El Amry
+250603,El Azaiza
+250604,El Moushayaa Bahary
+250605,El Mashayaah Qebly
+250606,Dair El Ganadla
+250607,Nazlet El Kadem
+250608,Nazlet Awlad Mohamed
+250701,Sadfa City
+250702,El Ablak
+250703,El Baroud Sharq
+250704,El Baroud Gharb
+250705,El Barba
+250706,El Dwaiar
+250707,El Shanaiana
+250708,El Kourdy
+250709,El Wahadla
+250710,Awlad Elias
+250711,Bani Feez
+250712,Kardous
+250713,Kom Abo Hagar
+250714,Koum Asfaht
+250715,Koum Said El Gharby
+250716,Keman Said El Sharqy & Tema
+250717,Magreas
+250718,Nogoaa El Sdadara
+250801,Manfalout City
+250802,El Gawly
+250803,El Hwatka
+250804,El Sahreag
+250805,El Atamana
+250806,El Azaba
+250807,El Modour
+250808,El Mandara Qably
+250809,Om El Kesour
+250810,Bani Rafea
+250811,Bani Sanad
+250812,Bani Shaaran
+250813,Bani Shaqeer
+250814,Bani Adyat
+250815,Bani Magd
+250816,Gahdam
+250817,
+250818,Damanhour
+250819,Sarawa
+250820,Sokara
+250821,Arab El Hamaiem
+250822,Kom El Shahid
+250823,Kom Boha Qabaly
+250824,Nazlet Romih
+250825,
+250901,
+250902,Abo Khalel
+250903,El Ansar
+250904,El Tatalaia
+250905,El Tamsahaia
+250906,El Habalsa
+250907,El Haradna
+250908,El Sarqna
+250909,El Shakh Dawod
+250910,El Shakh Awn Allah
+250911,El Sobhaia
+250912,El Monshah El Soghra
+250913,El Monshah El Kobra
+250914,Balout
+250915,Bani Idrees
+250916,Bani Zaid Bouq
+250917,Bany Saleh
+250918,Bani Qorah
+250919,Bany Helal
+250920,
+250921,Bok
+250922,Tanagha
+250923,Dair El Koseir
+250924,Rezket El Dair El Mahrouk
+250925,Aramiet El Dewan
+250926,Arab El Gahma
+250927,Ank
+250928,Fazara
+250929,Qosir El Amrnaa
+250930,
+250931,Mir
+250932,Nazaly Ganob
+251001,Dairout City
+251002,Abo El Hadr
+251003,Abo Karim
+251004,El Hota El Sharkaia
+251005,El Hota El Gharabaia
+251006,El Reyad
+251007,El Mahmoudeyah
+251008,El Moutawaa
+251009,El Manashy
+251010,El Mandarah Bahary
+251011,El Nehaia
+251012,Amshol
+251013,Banoub Zahr El Gamal
+251014,Baweit
+251015,Belaw
+251016,Bany Yehia Bahry
+251017,Garf Sarhan
+251018,Kherafa
+251019,Deshlot
+251020,Dairot El Shreif
+251021,Zawiet Haroun
+251022,Saw
+251023,Serekna
+251024,Shalash
+251025,Senbo
+251026,Aramia El Khodery
+251027,Awaga
+251028,Qasr Hedar
+251029,Kodia Mobarak
+251030,Koum Engasha
+251031,Koum Boha Bahary
+251032,Marena
+251033,Masara
+251034,Nagaa Khadr
+251035,Nazlet El Awamer
+251036,Nazlet Badawy
+251037,Nazlet Saw
+251038,Nazlet Sarqana
+251039,Nazlet Zaher
+251040,Nazlet Abd Alla
+251041,Nazlet Farag Mahmoud
+251042,Nazlet Mustafa Abd El Halim
+251101,Abnob City
+251102,El Hamam
+251103,El Sawalem El Baharaia
+251104,El Awamer
+251105,
+251106,
+251107,Bani Ibrahim
+251108,Bani Mohamadiat
+251109,Abnob City
+251110,Deer El Gabrawy
+251111,Dair Sho
+251112,Shaklkeil
+251113,Arab El Shanabla
+251114,Arab El Atiat El Bahria
+251115,Kom Abo Shabl
+251116,Bani Mohamadiat
+251117,Nazlet El kaddadih
+251201,
+251202,El Akrad
+251203,El Tawabeyah
+251204,El Fema
+251205,El Qasr
+251206,El Kota
+251207,El Masara
+251208,El Kablat
+251209,El Atilat El Kabalaia
+251210,El Wasty
+251211,Awlad Badr
+251212,Awlad Serag
+251213,Basra
+251214,Bani Zaid
+251215,Bany Taleb
+251216,Bani Aleeg
+251217,Nazlet El Asara
+251218,Tal Awlad Serag
+251219,Gazeiret El Akrad
+251220,Dair Basra
+251221,Arab El Atawla
+251222,Arab Mateir
+251223,
+251224,
+251301,Sahel Selim City
+251302,El Tanagha El Sharqia
+251303,El Khawaled
+251304,El Rwegat
+251305,El Shamaia
+251306,El Afadara
+251307,El Ona
+251308,El Gharib
+251309,El Louka
+251310,El Matmer
+251311,
+251312,Beweit
+251313,Tasa
+251314,Dair Tasa
+251315,
+251316,Nazlet El Malek
+251317,Nazlet Bakhom
+251401,El Badary City
+251402,El Baiadaia
+251403,El Sheikh Etman
+251404,El Atmania
+251405,El Aqal Bahary
+251406,El Oqal Qebly
+251407,El Koum El Ahmar
+251408,El Marawna
+251409,El Nawameis
+251410,El Nawawra
+251411,El Hamamia
+251412,Teeam
+251413,Ezbet El Akbat
+251414,Koum Seadah
+251415,Monshaet El Badary
+251416,Monshat El Akal
+251417,Monshat Hamam
+251418,Nagaa Gezeret Faw
+251419,Nagaa Zorik
+251420,Nogoa El Maadi
+251501,
+259999,Surrounded By Desert To Asiout Governorate
+260101,Ibrahim Farag
+260102,El Kholy
+260103,El Sherief
+260104,Saleh
+260105,Mazen
+260201,El Kabesh
+260202,Nasser
+260301,Adfa
+260302,El Bakhaita
+260303,El Hamadaia
+260304,El Shakh Makram
+260305,El Sala
+260306,
+260307,El Aramta Gharb
+260308,El Kawamel Bahary
+260309,El Mahamda
+260310,
+260311,El Mouzawla
+260312,El Hagarsa
+260313,Awlad Shelol
+260314,Awlad Azaz
+260315,Awlad Ghareib
+260316,Awlad Mamen
+260317,Awlad Naseir
+260318,Baga
+260319,Belsfoura
+260320,Bendar El Kermania
+260321,Bani Zar
+260322,Toneis
+260323,Gazeret Shandawel
+260324,Demno
+260325,Rawafea El Koseir
+260326,Saad Allah
+260327,Orabah Abu El Dahab
+260328,Kelfaw
+260329,Nagaa El Nagar
+260330,Nagaa Tamam
+260331,
+260332,
+260401,
+260402,Abo Aziz
+260403,Aqsas
+260404,El Batakh
+260405,El Gazazarah
+260406,El Hredaia
+260407,El Smarana
+260408,El Shakh Shabl
+260409,El Shakh Youssief
+260410,El Amor
+260411,El Ghrezat
+260412,El Wakda
+260413,Awlad Ismaeil
+260414,Basouna
+260415,Banaweit
+260416,Bany Helal
+260417,Bani Weshah
+260418,Bahaleil El Gazeira
+260419,Bahta
+260420,
+260421,Shandaweil
+260422,Amer
+260423,
+260424,Nagaa Taia
+260501,
+260502,Abo Bakr El Sadek
+260503,El Hrafasha
+260504,El Shahid Abd El Moneem Riyad
+260505,El Talehat
+260506,
+260507,
+260508,Osman Ebn Afan
+260509,Ali Ibn Abi Taleb
+260510,Omar Ebn El Khatab
+260511,Anebes
+260512,Nazah
+260513,Nazet El Hager
+260514,Nazet El Mahazamin
+260515,Nazlet Aly
+260601,
+260602,Sahel Tahta
+260701,El Gabaret
+260702,El Garedat
+260703,
+260704,
+260705,El Khzandria
+260706,El Sawalem
+260707,El Sheikh Rahoma
+260708,El Shakh Zean El Abedien
+260709,El Sheikh Masoud
+260710,El Safeha
+260711,El Sawaleh
+260712,El Sawamaah Gharb
+260713,El Kabesat
+260714,El Koum El Asfer
+260715,Benga
+260716,Benho
+260717,Bani Harb
+260718,Bani Ammar
+260719,
+260720,Hager Mashta
+260721,Daoud
+260722,Shatora
+260723,Arab Bakhwag
+260724,Kom Badr
+260725,Nagaa Hamad
+260726,Nogoaa El Sawmah Gharb
+260727,Nazlet El Kady
+260728,Nazlet Omara
+260801,Tema City
+260802,El Eghana
+260803,El Tahrri - Ezbet El Sabagh Prev
+260804,El Gabeb
+260805,El Hadeka
+260806,El Hasamda
+260807,El Hasana
+260808,El Halaqy
+260809,El Hama
+260810,El Rayanaia El Moalak
+260811,El Saksaka
+260812,El Saada
+260813,El Shoka
+260814,El Shakh Amar
+260815,El Atamana
+260816,
+260817,El Karya Beldower
+260818,El Kotna
+260819,El Modamer
+260820,El Mowatein
+260821,El Hesha
+260822,El Wakat
+260823,Um Doma
+260824,Tal El Zanoky
+260825,Gazeiret Tama
+260826,Salamon
+260827,Selim
+260828,
+260829,Faw Gharb
+260830,Koum Ashqaw
+260831,Kom El Arab
+260832,Kom Ghareb
+260833,Mashta
+260834,Nazlet El Dewak
+260835,Nazlet Abd Allah
+260901,
+260902,El Bagia Bel Shakh Youssief
+260903,El Bwarek
+260904,El Baiadaia Bel Nazer
+260905,El Harezat El Sharkaia
+260906,El Harezat El El Gharbaia
+260907,El Khananasa
+260908,El Khananasa Gharb
+260909,El Dnakala
+260910,El Dawerat
+260911,El Roheab
+260912,El Zara
+260913,El Zok El Sharkaia
+260914,El Zok El Gharbaia
+260915,El Sakraia
+260916,El Shawala
+260917,El Amaida
+260918,El Anbaraia
+260919,El Kawamel Qebly
+260920,El Hamas
+260921,Awlad Salama
+260922,Awlad Ali
+260923,Gazeiret El Montaser
+260924,
+260925,Rawafea El Eisawia
+260926,Kom Badar
+261001,Awlad Hamza - Maqar El Markaz
+261002,El Ahawia Gharb
+261003,El Rshaiada
+261004,El Shohadaa
+261005,El Masaed
+261006,El Nawirat
+261007,Awlad Baheig
+261008,Awlad Gabara
+261009,
+261010,Awamer El Aserat
+261101,Gerga City
+261102,El Baiad We El Karea
+261201,El Barba
+261202,El Gwahen
+261203,El Khlafaia
+261204,El Rkakana
+261205,El Zankor
+261206,
+261207,
+261208,El Awamer Bahary
+261209,El Awamer Qebly
+261210,El Karaan
+261211,El Mgabra
+261212,El Mahasna
+261213,El Mashawda
+261214,Bendar El Tbeinat
+261215,Bendar El Ramlia
+261216,Bani Aish
+261217,Bait El Khareby
+261218,Bait Khalaf
+261219,Bait Daoud Sahl
+261220,Bait Alam
+261221,Kherafet Gerga
+261222,Kom Ashkelo
+261223,Kom El Saida
+261224,Mazata We El Shakh Gabr
+261225,Nagaa El Ghobashy
+261226,Nogoa Bendar
+261301,El Belena City
+261302,El Aslah
+261303,El Baskea
+261304,El Tawader
+261305,El Habeal We El Shalolaia
+261306,El Hagz
+261307,El Harga Belqoraan
+261308,El Harga Bahary
+261309,El Harga Qebly
+261310,El Halaqy
+261311,El Sahel Bahry
+261312,El Sahel Qebly
+261313,El Salmany
+261314,El Samata
+261315,El Shakh Baraka
+261316,El Shakh Marzok
+261317,El Asakra
+261318,El Okalaia
+261319,El Ghabat
+261320,El Ghanimeyah
+261321,Awlad Eliwa
+261322,Barkheil
+261323,Berdeis
+261324,Bani Hemel
+261325,Bani Mansour
+261326,Arabet Abeidos
+261327,Monshat Bardes
+261328,Nagaa Mazen Gharb
+261329,Nogoaa Bardes
+261330,Yaakob
+261401,Dar El Salam City
+261402,El Blabesh El Mostagada
+261403,El Balasheen Bahary
+261404,El Balasheen
+261405,El Hager Bawlad Yahya
+261406,El Khaiam We Gezera Naknak
+261407,El Akaraia
+261408,El Kashh
+261409,El Nosairat
+261410,El Naghameish
+261411,Awlad El Shaikh
+261412,Awlad Khalaf
+261413,Awlad Salem Bahary
+261414,Awlad Salem Qebly
+261415,Awlad Tok Gharb
+261416,Awlad Yehia Bahary
+261417,Awlad Yehia Qebly
+261418,Mazata Shark
+261419,Nogoaa Mazen Shark
+261420,Naknak
+261501,Akhmem City
+261502,Abar El Malk
+261503,Abar El Waqf
+261504,El Ahauwa Shark
+261505,El Hwawesh
+261506,El Dababat
+261507,El Salamony
+261508,El Sawamaah Sharq
+261509,El Azba We El Arab
+261510,El Esawaia Shark
+261511,El Kola
+261512,Gazeiret Mahrous
+261513,Arab El Atawla
+261514,Nogoa El Sawamaah Sharq
+261515,Neda
+261601,
+261602,El Galawaia
+261603,El Haradna
+261604,El Rayanaia Bel Hagar
+261605,
+261606,El Tawbel El Sharkaia
+261607,El Tawbel El Gharbaia
+261608,El Awamia
+261609,El Farasya
+261610,El Aramta Shark
+261611,Bani Wasel
+261612,Seflak
+261613,Fawgely
+261614,Nogoaa El Riaiana
+261615,Nogoaa Bany Wasel
+261701,Hay El Kawthr
+261801,
+261901,
+269299,Surrounded By Desert To Sohag Governorate
+269399,Surrounded By Desert To El Belena Center
+269499,Surrounded By Desert To El Maragha Center
+269599,Surrounded By Desert To El Monshaah Center
+269699,Surrounded By Desert To Gerga Center
+269799,
+269899,Surrounded By Desert To Tama Center
+269999,Surrounded By Desert To Tahta Center
+270101,El Hamidat
+270102,Qesm 1st
+270103,Qesm 2nd
+270104,Qesm 3rd
+270105,Hagez Qena
+270201,Abnoud
+270202,El Ashraf El Baharia
+270203,El Ashraf El Sharkia
+270204,El Ashraf El Gharbia
+270205,El Ashraf El Qeblia
+270206,El Taramsah
+270207,El Geblaw
+270208,El Hogeyrat
+270209,
+270210,El Dayr El Sharqi
+270211,El Sheikh Eisa
+270212,El Saleheyah
+270213,El Tawabeyah
+270214,El Towayrat
+270215,El Aseleyah
+270216,El Ghosah
+270217,El Qenaweyah
+270218,El Kelahin
+270219,El Mahrousa - El Balas Prev
+270220,El Makhadmah
+270221,Awlad Omar
+270222,
+270223,Dandarah
+270224,Karam Omran
+270301,Dishna City
+270302,Abu Diab Sharq
+270303,Abu Diab Gharb
+270304,Abu Manaa Bahary
+270305,Abu Mana Sharq
+270306,Abu Manaa Gharb
+270307,Abu Manaa Qebly
+270308,El Samta Bahari
+270309,El Samta Qebli
+270310,El Sabreyat
+270311,El Azab
+270312,El Ateyat
+270313,Faw Bahari
+270314,Faw Gharb
+270315,Faw Qebly
+270316,Nagaa El Sheikh Ali
+270317,Nagaa Said
+270318,Nagaa Azouz
+270401,El Waqf City
+270402,El Qelminah
+270403,El Marashdah
+270404,
+270501,Naj Hammadi City
+270502,Abu Khozam
+270503,Abo Amouri
+270504,El Hefnaweyah
+270505,El Helfayah Bahari
+270506,El Helfayah Qebli
+270507,El Darb
+270508,El Raeesyah
+270509,El Rahmania Qebly
+270510,
+270511,El Samaynah
+270512,El Shawreyah
+270513,El Sharqi Bahgourah
+270514,El Shaenyah
+270515,El Sayad
+270516,El Gharbi Bel Selameyah
+270517,El Gharbi Bahgourah
+270518,El Qasr
+270519,El Qamanah
+270520,
+270521,El Maselhah
+270522,El Hesha
+270523,Awlad Negm El Tama
+270524,Awlad Negm El Qeblia
+270525,Awlad Negm Bahgoura
+270526,Bahgourah
+270527,Hamrat Dom
+270528,
+270529,Howa
+270601,Farshout City
+270602,El Dahsah
+270603,El Arky
+270604,El Asirat
+270605,El Qabibah
+270606,El Koum El Ahmar
+270607,El Negoua
+270608,Refaah
+270609,Kom El Bega
+270610,Nagaa El Hag Salam
+270701,Abo Tesht City
+270702,Abu Shosha
+270703,El Amireyah
+270704,El Awsat Samhoud
+270705,El Bahari Samhoud
+270706,El Habilat El Sharqeyah
+270707,El Habilat El Gharbeyah
+270708,El Hasanat
+270709,El Khawaled
+270710,El Razqah
+270711,El Rafshah
+270712,El Rawateb
+270713,
+270714,El Solaymat
+270715,El Sharqi Samhoud
+270716,El Shaqeifi
+270717,El Omrah
+270718,El Awamer El Gharbeyah
+270719,El Awamer &Bani Berzah
+270720,El Qarah
+270721,El Qebli Samhoud
+270722,El Qeleyah
+270723,El Karnak
+270724,El Maharzah
+270725,El Negma & El Homran
+270726,Bakhanes
+270727,Belad El Mal El Bahary
+270728,Belad El Mal El Qebly
+270729,Gazirat El Dom
+270730,Samhoud
+270731,
+270732,Qosir Bakhanes
+270733,Kom Gaber
+270734,Kom Yaqoub
+270801,Qaft City
+270802,El Barahmah
+270803,El Shaykheyah
+270804,El Zafereyah
+270805,El Owaydat
+270806,El Qaleah
+270807,El Kelahin
+270808,El Laqeta
+270809,Bir Anbar
+270901,Qous City
+270902,El Gamalaia
+270903,El Harageyah
+270904,El Helah
+270905,El Homr & El Gaafrah
+270906,El Kharanqah
+270907,El Shearany
+270908,El Oqb
+270909,El Eliqat
+270910,El Ayayshah
+270911,El Karateyah
+270912,El Kalalsah
+270913,El Makhzan
+270914,El Moseed
+270915,El Meari
+270916,El Mafrageyah
+270917,El Maqarin
+270918,El Maqrabeya
+270919,Garagos
+270920,
+270921,Hegazah
+270922,Hegazah Bahari
+270923,Khezam
+270924,Shanhour
+270925,Abasa
+271001,
+271002,El Awsat Qamoula
+271003,El Bahari Qamoula
+271004,El Khatara
+271005,El Zawayah
+271006,Danfiq
+271007,Tokh
+271101,
+279399,Surrounded By Desert To Qena Governorate
+279499,Surrounded By Desert To Abu Tesht Center
+279599,Surrounded By Desert To El Waqf Center
+279699,Surrounded By Desert To Farshout Center
+279799,Surrounded By Desert To Qena Center
+279899,Surrounded By Desert To Nagaa Hamady Center
+279999,Surrounded By Desert To Nafadah Center
+280101,Salah Gaheen
+280102,Abd El Azeem Hassan
+280103,Othman Ahmed Ibrahim
+280104,Abd El Hafeez Abu Qedees
+280105,Sherif Soliman
+280109,Nagaa El Mahata
+280110,El Khzan Sharq
+280111,El Khazan Gharb
+280112,Gabal Tafouq
+280113,El Shalal
+280201,Mekky Hassoun
+280202,Badr El Deen
+280203,El Nogoaa El Mondama
+280204,Kema
+280301,Abu El Reesh Bahary
+280302,Abu El Reesh Qebly
+280303,El Aakab
+280304,El Kobanya
+280305,Gazeiret Bahreif
+280306,West Of Aswan
+280308,El Elaqy - Wadi Um Asherah
+280309,El Sebouaa
+280310,El Sanqary
+280311,El Malky
+280312,Shaterma
+280313,Sahary City
+280314,Matar Aswan
+280315,El Haded We El Solb Area
+280316,Manteqet El Sad El Aali
+280317,Hodod Aswan Area
+280401,
+280501,Idfo City
+280502,
+280503,
+280504,
+280505,Idfo Qebly
+280506,El Bosila El Wasta
+280507,El Bosela Qebly
+280508,El Hagz Bahary
+280509,El Hagz Qebly
+280510,El Redesia Bahary
+280511,El Ramady Bahary
+280512,El Ramady Qebly
+280513,El Sharawna
+280514,El Saaydah
+280515,El Tonab
+280516,El Fanan
+280517,El Kalah Shark
+280518,El Kalah Gharb
+280519,El Raeesyah
+280520,Amr Ibn El Aas - El Markazia
+280524,El Eman
+280529,Wadi Abadi 1
+280530,Wadi Abadi 2
+280531,Wadi Abadi 3
+280532,Wadi Abadi 4
+280533,El Nasrab
+280534,El Daqadeq
+280535,El Domariah
+280536,El Maqalsa
+280537,El Zaneqa
+280538,Abu El Nasr
+280539,El Hamam
+280540,El Mahameed
+280541,Helal
+280542,Manteqet Managem El Fosfat
+280543,Qaryet Wadi El Saaydah
+280601,Koum Umbu City
+280602,Aqleet
+280603,El Sabeal
+280604,El Abasia
+280605,El Atmor
+280606,El Kagoug
+280607,
+280608,Selwa Bahary
+280609,Selwa Qebly
+280610,Fares
+280611,Fateira
+280612,Kfour Kom Ombo
+280613,Mliha
+280614,
+280615,Nemra 7 Bahary
+280616,Nemra 7 Qebly
+280701,
+280702,
+280703,Abreem
+280704,Abo Sonbol
+280705,Abo Hor
+280706,Adndan
+280707,Armena
+280708,El Ambar Kab
+280709,El Ganana We El Shabak
+280710,El Daka
+280711,El Seboa Gharb - Tahger
+280712,El Sanqary - Tahger
+280713,El Elaqy - Tahgeer
+280714,El Malky - Tahger
+280715,El Madeek
+280716,Balana
+280717,Tushka Sharq
+280718,Tushka Gharb
+280719,Tomas We Afia
+280720,Garf Hussein
+280721,Daboud
+280722,Dar El Salam
+280723,Dahmeet
+280724,Seiala
+280725,Shaterma
+280726,Aneba
+280727,Kersha
+280728,Kastal
+280729,Korta
+280730,Kashmana East
+280731,Kashmana Garb
+280732,Maraia
+280733,Mahraka
+280734,Marwaw
+280735,Masmas
+280736,Wadi El Arab
+280737,Khreet 1
+280738,Wadi El Naqrah
+280801,Draw City
+280802,El Gaadfrah
+280803,El Rakaba
+280804,El Twaisa
+280805,El Mansoria
+280806,Benban Bahary
+280807,Bonyan Qebly
+280808,Nogoaa El Shatb
+280901,
+280902,Kastal
+280903,Adndan
+280904,El Faraanah
+280905,Nalo & El Zehour
+280906,El Salam
+280907,Abd El Qader
+280908,El Ababdah
+280909,El Shohadaa
+280911,El Saiaden
+281001,
+289499,Surrounded By Desert To Aswan Center
+289599,Surrounded By Desert To Edfo Center
+289699,Surrounded By Desert To Koum Ombu Center
+289799,Surrounded By Desert To Nasr Center
+289899,Surrounded By Desert To Daraw Center
+289999,Surrounded By Desert To Abu Sembel Center
+290101,Luxor City
+290102,El Karnak El Qadem
+290103,El Karnak El Gededa
+290104,El Awamia
+290105,Monshaet El Amary
+290201,
+290202,El Toud City
+290203,El Habil
+290204,El Baghdadi
+290205,El Odaisat Bahary
+290206,El Odaysat Qebly
+290207,El Toud El Ghareeb
+290208,
+290209,
+290301,
+290302,
+290303,El Ashy
+290304,El Zeineyah Bahari
+290305,El Madamoud
+290306,El Saaydah
+290307,El Madamoud Bahary
+290401,
+290402,El Qebly Qamola
+290403,El Gharbi Qamoula
+290404,El Baeirat
+290405,El Aqaltah
+290406,El Dabeyah
+290407,El Marees - Gezeret Armant
+290408,Suzan Mubarak
+290409,
+290501,Armant City
+290502,El Domqrat
+290503,El Rozayqat
+290504,El Rozayqat El Qebleyah
+290505,El Rayaynah
+290506,El Mahameed
+290507,El Mahamid El Qebleyah
+290601,Esna City
+290602,Asfoun
+290603,El Tirah
+290604,El Helah
+290605,El Hamidat
+290606,El Dayabeyah
+290607,El Dayr
+290608,El Shaghab - El Alwania Prev
+290609,El Adaymah
+290610,El Gharirah
+290611,El Qaraya
+290612,El Kelabeyah
+290613,El Mesawyah
+290614,El Maelah
+290615,El Negoua
+290616,El Negoua Qebli
+290617,El Nemsa
+290618,El Hanadi
+290619,
+290620,Zarnekh
+290621,Tafnis
+290622,Komir
+290623,Kiman El Matanah
+290624,Tomas We Afia
+290625,El Qaria -1
+290626,El Qaria -2
+290627,
+290628,El Qaria - 3 Halfa
+299499,Surrounded By Desert To El Qarnah Center
+299599,Surrounded By Desert To Markaz Armant
+299699,Surrounded By Desert To Esna Center
+299999,Surrounded By Desert To Luxor Governorate
+310101,El Saqalah
+310102,El Menaa
+310103,
+310104,El Hadaba
+310105,El Qora El Seyahia
+310201,El Dahar
+310202,El Arab
+310203,El Helal
+310204,El Ahyaa
+310205,Gamsha
+310301,Ras Ghareb City
+310302,
+310303,Wadi Dara El Zeraay
+310401,Safaga City
+310402,Um El Howetat & El Gawases
+310403,El Nasr - Km 85 Safaga Road - Qena
+310501,El Qoseer City
+310502,El Hamraween
+310503,El Awaina
+310504,Wadi Karim & El Dabah
+310505,Mangam El Fawakheer
+310506,Mangam Um Gheeg
+310601,Marsa Alam City
+310602,El Sheikh El Shazly
+310603,Baranees
+310604,Abu Ghosoun
+310605,Mangam Hamatah
+310606,Mangam Um Semweky
+310701,El Shalateen City
+310702,Abraq
+310703,Morsy Hamera
+310704,
+310705,Raas Hedrebah
+310801,Halayeb City
+319599,Surrounded By Desert To El Qosser District
+319699,Surrounded By Desert To Marsa Alam District
+319799,Surrounded By Desert To El Shalateen District
+319999,
+320101,
+320102,El Sherka 55
+320103,El Monera - El Mahreeq Sabeqa
+320104,Boulak
+320105,Ganah
+320106,Sanaa
+320108,Nasser El Thawrah
+320109,El Sherka 53
+320110,El Sherka 17
+320111,El Sherkah 8
+320112,Ganah 1
+320113,Ganah 3
+320114,Ganah 7
+320115,Portsaid
+320201,Paris City
+320202,Baghdad
+320203,El Max El Qebly
+320204,
+320205,Darb El Arbeen El Thania
+320206,Darb El Arbeen El Thaletha
+320207,Darb El Arbeen El Rabaa
+320301,Balat City
+320302,Ain Aish
+320303,Marzouq
+320304,El Safraa
+320305,Zakhera
+320306,Shams
+320307,El Bashandy
+320308,Awlad El Sheikh Abd Allah
+320309,Kastal
+320310,El Awaina
+320313,El Hagez
+320314,Tanedah
+320401,
+320402,El Kefah
+320403,El Nahda
+320405,Talaat Dergham
+320406,Bear 5
+320407,Bear 7
+320408,Bear 4
+320409,Bear 6
+320410,Omar Ebn El Khatab
+320411,Zeraaha 16
+320412,Zeraaha 14
+320415,El Sheikh Marzouq El Gededa
+320416,Zeraaha 10
+320419,Abu Horirah
+320420,El Lewaa Sobeeh
+320421,
+320422,
+320423,Aesha Abd El Rahman
+320424,Wahet El Amal
+320425,Abd El Meguid El Gafeel
+320426,Osman Ebn Afan
+320427,El Shakh Marzok
+320501,Mout City
+320502,El Rashdah
+320503,Bedkhlo
+320506,Ezbet El Arab - El Shiekh Omran
+320507,El Hendaw
+320511,El Mosheeh
+320512,
+320513,
+320515,Ezbet Ain El Wali
+320517,El Qalamoun
+320518,Ezbet El Qada
+320519,Ezbet El Rakha
+320520,Ezbet Abd El Qader
+320521,El Bear El Wostany
+320524,El Qasr
+320525,Ezbet El Qasr
+320526,
+320527,
+320528,
+320529,
+320530,
+320531,Ain Um El Sagheer
+320532,El Giza
+320533,El Masara
+320534,El Sheikh Waly
+320535,Asmant
+320536,El Sheikh Moftah
+320537,El Ain
+320538,Gharb El Mawhoub
+320539,El Mawhoub
+320540,El Gededa
+320601,Manteqet Sharq El Owinat
+329399,Surrounded By Desert To Balat Center
+329499,Surrounded By Desert To El El Farafrah Center
+329599,Surrounded By Desert To El Dakhlah Center
+329999,Surrounded By Desert To El Wadi El Geded District
+330101,Marsa Matrouh City
+330102,El Zayat
+330103,Abu Marqeq
+330104,Abu Lahu El Baharia
+330105,Abu Lahu El Ganobia
+330106,Atnouh
+330107,Um El Rekhem
+330108,El Dakhlah
+330109,El Sowainat
+330110,El Qasr
+330111,El Qawasem
+330112,
+330113,El Nasr
+330114,Aloush
+330115,Awlad Mareey
+330116,Garawla
+330117,Halazeen
+330118,Sedi Henesh
+330119,Keshouk Ameera
+330201,
+330202,El Mathany
+330203,El Zoghayrat
+330301,Sedi Barani City
+330302,Abu Sateel
+330303,Abu Marzouq
+330304,Abu Mazhoud
+330305,El Zowedah
+330306,El Omda Negma El Deen El Zafer - El Zafer Sabeqa
+330307,El Fakhry
+330308,El Qatrany
+330309,Shamas
+330401,El Saloum City
+330402,Abu Zrebah
+330403,Baqbaq
+330501,
+330502,El Haraby
+330503,El Gafera
+330504,El Zaiton
+330505,El Sharniba
+330506,Awlad Elwani
+330507,Galal
+330508,Gamema
+330509,
+330510,Sawany Gaber
+330511,Sawany Samalous
+330512,Sedi Shabeb
+330513,Ghazal
+330514,Fouka
+330601,El Alameen City
+330602,Tal El Aees
+330603,
+330701,Marena El Alameen
+330801,El Hamam City
+330802,El Salam
+330803,El Shamamah
+330804,El Ameed
+330805,Awlad Gebreel
+330806,Awlad Masoud
+330807,Sahel El Ameed
+330811,El Rowaysat
+330901,Siwa City
+330902,Abu Shrouf - El Kafrawy
+330903,Aghormy
+330904,El Maraqy
+330905,Bahy El Deen
+330906,Um El Sagheer
+331001,El Sahel El Shamaly
+339299,Surrounded By Desert To Marsa Matrouh District
+339399,Surrounded By Desert To Siwa District
+339499,Surrounded By Desert To Sedi Barani District
+339599,Surrounded By Desert To El Alameen District
+339699,Surrounded By Desert To El Dabaah District
+339799,Surrounded By Desert To El Saloum District
+339899,Surrounded By Desert To El Dakhlah District
+339999,Surrounded By Desert To El Hammam District
+340101,El Skaskah
+340102,El Taweel
+340201,Qesm Than El Arish
+340301,El Masaed
+340302,El Zehour
+340303,El Fawakhria
+340401,El Sabeal
+340402,
+340501,Bear El Abd City
+340502,El Kharba - Abu Saadan
+340503,Selmanah
+340504,El Rawdah
+340505,El Telol
+340506,El Sadat
+340507,El Nasr
+340508,El Nagah
+340601,Romana
+340602,Rabaah
+340603,Nagela
+340604,Balouta
+340605,Qatia
+340606,
+340607,El Shohadaa
+340608,El Salam
+340609,El Shawahet
+340610,Aqtiah
+340611,El Mareh
+340612,El Ganayen
+340613,El Karama
+340614,El Shaeikh Zayed - El Madkhal Sabeqa
+340615,El Ahrar
+340616,Um Okba
+340701,
+340702,El Gfgafah
+340703,Baghdad
+340704,El Moghazah
+340705,El Hama
+340706,El Resan
+340707,El Ghardaqa
+340708,El Mafareq
+340709,El Mangam
+340710,
+340711,Wadi El Maleez
+340712,Km 64
+340713,El Gady
+340801,Nakhl City
+340802,Bear Greed
+340803,El Tamad
+340804,Raas El Naqab
+340805,El Kantela
+340806,El Barouk
+340807,El Khafga
+340808,El Salam - El Ghabia
+340809,El Nathela
+340810,Sadr El Hetan - Gabal Hassan
+340811,Ain Tarabia
+340901,El Qasema
+340902,El Maghfar
+340903,El Maqdabah
+340904,El Monbateh
+340905,Um Qatf
+340906,Um Shehan
+340907,Bear Bda
+340908,Wadi El Omar
+341001,El Sheikh Zoweed City
+341002,Abu Tawelah
+341003,El Gorah
+341004,El Zaheer
+341005,El Shalaq
+341006,El Khorouba
+341007,El Qareaah
+341008,Abu El Erag
+341009,El Toma
+341010,El Zawaraah
+341011,El Sakadrah
+341012,El Akour
+341013,El Moqateah
+341014,Qabr Omair
+341015,Abu Al Fateh - Km 8 Previous
+341101,Rafah City
+341102,El Birth
+341103,El Matlah
+341104,El Wefaq
+341105,Qouz Abu Raad
+341106,Shybana
+341107,Abu Shenar
+341108,El Hosynat
+341109,El Kharafeen
+341110,El Tayrah
+341111,El Mahdia
+341112,Km 21
+349999,Surrounded By Desert To Bear El Abd District
+349999,Surrounded By Desert To Bear El Abd District
+349999,Surrounded By Desert To Romanah District
+349999,Surrounded By Desert To Romanah District
+350101,El Tour City
+350102,Qaryet El Wadi
+350103,
+350104,
+350201,Abu Redees City
+350202,
+350203,Qaryet Feran
+350204,
+350301,Ras Sedr City
+350302,Abu Sowera
+350303,El Malhah
+350304,Raas Mesalah
+350305,
+350401,Sant Katreen City
+350402,Tagamoaat Sakania Sant Katreen
+350501,Nowebaa City
+350502,Waaset
+350504,
+350601,
+350701,
+350801,
+350901,
