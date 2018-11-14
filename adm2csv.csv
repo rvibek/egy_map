@@ -1,0 +1,444 @@
+Sec_Code,Sec_Name_E
+0101,Qesm El Tbin
+0102,Qesm Helwan
+0103,Qesm El Masara
+0104,Qesm 15 Of May
+0105,Qesm Tora
+0106,Qesm El Maadi
+0107,Qesm El Bsateen
+0108,Qesm Dar El Salam
+0109,Qesm Misr El Kadima
+0110,Qesm El Sayda Zeinb
+0111,Qesm El El Khalifa
+0112,Qesm El Moqatam
+0113,Qesm Monshat Nasser
+0114,Qesm El Darb El Ahmr
+0115,Qesm El Mosky
+0116,Qesm Abdeen
+0117,Qesm Qasr El Nile
+0118,Qesm El Zamalek
+0119,Qesm Bolak
+0120,Qesm El Azbakia
+0121,Qesm Bab El Shaaria
+0122,Qesm El Gamalia
+0123,Qesm El Zaher
+0124,Qesm El Waily
+0125,Qesm Hadaek El Koba
+0126,Qesm El Shrabia
+0127,Qesm Shobra
+0128,Qesm Rod El Farg
+0129,Qesm El Sahel
+0130,Qesm El Zawia El Hamra
+0131,Qesm El Ameeria
+0132,Qesm El Zaytoun
+0133,Qesm El Mataria
+0134,Qesm Ain Shamas
+0135,Qesm El Marg
+0136,Qesm 1st El Salam
+0137,Qesm 2nd El Salam
+0138,Qesm El Nozha
+0139,Qesm Heliopolis
+0140,Qesm 1st Nasr City
+0141,Qesm 2nd Nasr City
+0142,Qesm Shortah Eltagamoaa Khames
+0143,Qesm Shortah Eltagamoaa Awl
+0144,Qesm Shortah El Qatmia
+0145,Qesm El Shorouk
+0146,Qesm Badr
+0199,Surrounded By Desert To Cairo Governorate
+0201,Qesm 1st El Montazh
+0202,Qesm 2nd El Montazha
+0203,Qesm 1st El Ramel
+0204,Qesm 2nd El Ramel
+0205,Qesm Sedi Gaber
+0206,Qesm Bab Sharki
+0207,Qesm El Atareen
+0208,Qesm Moharm Bek
+0209,Qesm Karmouz
+0210,Qesm El Laban
+0211,Qesm El Manshia
+0212,Qesm El Gomrok
+0213,Alexandria Port Police Department
+0214,Qesm Mina El Basal
+0215,Qesm El Dekhela
+0216,Qesm 1st El Amria
+0217,Qesm 2nd El Ammeria
+0218,Qesm Borg El Arab
+0219,New Borg El Arab City
+0220,El Sahel El Shamaly
+0299,Surrounded By Desert To Alexandria Governorate
+0301,Qesm El Shark
+0302,Qesm El Arab
+0303,Qesm El Manakh
+0304,Qesm El Dawahy
+0305,Qesm El Zohor
+0306,Qesm El Manasra - West Port Said
+0307,Qesm 1st El Ganob
+0308,Qesm 2nd El Ganob
+0309,Qesm Port Fouad
+0310,Qesm 2nd Port Fouad
+0311,Qesm Mubark
+0312,Port Said Port Police Department
+0401,Qesm El Suez
+0402,Qesm El Arbaeen
+0403,Qesm Ataka
+0404,Qesm Faisal
+0405,Qesm El Ganyen
+0406,Suez Port Police Department
+0499,Surrounded By Desert To Suez Governorate
+1101,Qesm 1st Domiat
+1102,Qesm 2nd Domiat
+1103,Markaz Domiat
+1104,Markaz Farskor
+1105,Markaz El Zarqa
+1106,Markaz Kafr Saad
+1107,Markaz Kafr El Batikh
+1108,Qesm New Domiat City
+1109,New Domiat Port Police Department
+1110,Qesm Ras El Bar
+1199,Surrounded By Desert To Domiat Governorate
+1201,Qesm 1st El Mansoura
+1202,Qesm 2nd El Mansoura
+1203,Markaz El Mansoura
+1204,Markaz Aga
+1205,Qesm Meet Ghamr
+1206,Markaz Meet Ghamr
+1207,Markaz El Senbelawen
+1208,Markaz Tama El Emdid
+1209,Markaz Bany Ebeed
+1210,Markaz Mahalet Demna
+1211,Markaz Dekernes
+1212,Markaz Menyet El Nasr
+1213,Qesm El Kordy
+1214,Markaz Meet Selseel
+1215,Markaz El Gamalia
+1216,Markaz El Manzala
+1217,Markaz El Mataria
+1218,Markaz Sherbin
+1219,Qesm Gamasa
+1220,Markaz Talkha
+1221,Markaz Nabaroh
+1222,Markaz Belqas
+1299,Surrounded By Desert To Daqahlia Governorate
+1301,Qesm 1st El Zaqaziq
+1302,Qesm 2nd El Zaqaziq
+1303,Markaz El Zaqaziq
+1304,Qesm El Qenayat
+1305,Markaz Menia El Qamh
+1306,Markaz Mashtoul El Souk
+1307,Markaz Belbes
+1308,Qesm 1st 10 Of Rammadan
+1309,Qesm 2nd 10 Of Rammadan
+1310,Markaz Abo Hamad
+1311,Markaz Hahia
+1312,Markaz Diarb Negm
+1313,Markaz El Ibrahimia
+1314,Markaz Abo Keber
+1315,Markaz Kafr Sakr
+1316,Markaz Awlad Saqr
+1317,Markaz San El Hagar
+1318,Markaz Monshaet Abu Omar
+1319,Markaz El Hesinia
+1320,Qesm Fakous
+1321,Markaz Fakous
+1322,Qesm El Qureen
+1323,Qesm El Salhia El Gididaa
+1398,Surrounded By Desert To Qesm El Salhia El Gededa
+1399,Surrounded By Desert To 10Th Of Ramadan
+1401,Qesm 1st Banha
+1402,Qesm 2nd Banha
+1403,Markaz Banha
+1404,Markaz Kafr Shokr
+1405,Markaz Tokh
+1406,Qesm Qaha
+1407,Markaz El Qanater El Kayria
+1408,Qesm Qaliob
+1409,Markaz Qaliob
+1410,Qesm 1st Shobra El Khema
+1411,Qesm 2nd Shobra El Khema
+1412,Qesm El Khosos
+1413,Markaz Shebin El Qanater
+1414,Qesm El Khanka
+1415,Markaz El Khankah
+1416,Qesm El Obour
+1499,Surrounded By Desert To Qesm El Obour
+1501,Qesm 1st Kafr El Shikh City
+1502,Qesm 2nd Kafr El Sheikh City
+1503,Markaz Kafr El Shikh
+1504,Markaz El Riyad
+1505,Markaz El Hamoul
+1506,Qesm Biala
+1507,Markaz Biala
+1508,Markaz El Brolos
+1509,Markaz Motobas
+1510,Markaz Fowah
+1511,Markaz Sedi Salem
+1512,Qesm Desok
+1513,Markaz Desok
+1514,Markaz Qellin
+1601,Qesm 1st Tanta
+1602,Qesm 2nd Tanta
+1603,Markaz Tanta
+1604,Markaz El Santa
+1605,Markaz Zefta
+1606,Markaz Samanoud
+1607,Qesm 1st El Mahala El Kobra
+1608,Qesm 2nd El Mahala El Kobra
+1609,Qesm 3rd El Mahala El Kobra
+1610,Markaz El Mahala El Kobra
+1611,Markaz Qotor
+1612,Markaz Basyon
+1613,Markaz Kafr El Zayat
+1701,Qesm Shebin El Kom
+1702,Markaz Shebin El Kom
+1703,Markaz El Shohdaa
+1704,Markaz Tala
+1705,Markaz Berket El Sabaa
+1706,Markaz Qowesna
+1707,Markaz El Bagor
+1708,Markaz Ashmoun
+1709,Qesm Sers El Lian
+1710,Qesm Menouf City
+1711,Markaz Menouf
+1712,Markaz El Sadat
+1799,Surrounded By Desert To El Sadat City
+1801,Qesm Damanhour
+1802,Markaz Damanhour
+1803,Markaz Housh Issa
+1804,Markaz Abo El Matamier
+1805,Qesm Kafr El Dawar
+1806,Markaz Kafr El Dawar
+1807,Markaz Edko
+1808,Markaz Rashid
+1809,Markaz Abo Homus
+1810,Markaz El Mahmodia
+1811,Markaz El Rahmania
+1812,Markaz Shobra Kheet
+1813,Markaz Etay El Barod
+1814,Markaz Koum Hamada
+1815,Markaz Badr
+1816,Markaz El Delngat
+1817,Markaz Wady El Natron
+1818,Qesm Gharb El Nobaria
+1898,Qesm Gharb El Nobaria - El Kharegen Village
+1899,Surrounded By Desert To Behera Governorate
+1901,Qesm 1st Ismalia
+1902,Qesm 2nd Ismalia
+1903,Qesm 3rd Ismalia
+1904,Markaz El Ismalia
+1905,Markaz El Qantra Gharb
+1906,Qesm El Qantra Shark
+1907,Markaz Fayed
+1908,Markaz Abu Sower
+1909,Markaz El Tal El Kebir
+1910,Markaz El Qasaseen El Gadidah
+1998,Surrounded By Desert To Markaz Abu Sower
+1999,Surrounded By Desert To Markaz El Tal El Kebeer
+2101,Qesm Embaba
+2102,Qesm El Agoza
+2103,Qesm El Doki
+2104,Qesm El Giza
+2105,Qesm Bolak El Dakror
+2106,Qesm El Omrania
+2107,Qesm El Talbia
+2108,Qesm El Ahram
+2109,Markaz Abu El Nomros
+2110,Qesm El Hawamdia
+2111,Markaz El Badrashin
+2112,Markaz El Ayat
+2113,Markaz El Saf
+2114,Markaz Atfeeh
+2115,Markaz Kerdasa
+2116,Markaz Owssim
+2117,Qesm El Waraq
+2118,Markaz Monshaet El Qanater
+2119,Qesm El Shikh Zaid
+2120,Qesm 1st 6 October
+2121,Qesm 2nd 6 October
+2122,Qesm El Wahat El Baharaia
+2198,Surrounded By Desert To Qesm El Wahat El Baharia
+2199,Surrounded By Desert To Giza Governorate
+2201,Qesm Beni Suef
+2202,Markaz Beni Suef
+2203,Qesm New Beni Suef City
+2204,Markaz Ahnasia
+2205,Markaz Beba
+2206,Markaz Smasta
+2207,Markaz El Fashn
+2208,Markaz El Wasta
+2209,Markaz Naser
+2299,Surrounded By Desert To Bani Suif Governorate
+2301,Qesm El Faioum
+2302,Markaz El Faioum
+2303,Markaz Tamia
+2304,Markaz Snors
+2305,Markaz Abshway
+2306,Markaz Atsa
+2307,Markaz Youssef El Sedik
+2308,New El Faioum City
+2399,Surrounded By Desert To Faioum Governorate
+2401,Qesm 1st
+2402,Qesm 2nd
+2403,Qesm 3rd
+2404,Qesm New Menia
+2405,Markaz El Menia
+2406,Markaz Abo Qurqas
+2407,Qesm Malawy
+2408,Markaz Malawy
+2409,Markaz Dair Mowas
+2410,Markaz Samalot Shark
+2411,Qesm Malawy Gharb
+2412,Markaz Matay
+2413,Markaz Bani Mazar
+2414,Markaz Maghagha
+2415,Markaz El Odwa
+2499,Surrounded By Desert To Menia Governorate
+2501,Qesm 1st Assiot
+2502,Qesm 2nd Assiot
+2503,Markaz Assiot
+2504,Qesm Abu Teeg
+2505,Markaz Abo Teeg
+2506,Markaz El Ghanayem
+2507,Markaz Sadfa
+2508,Markaz Manfalout
+2509,Markaz El Qossia
+2510,Markaz Dairot
+2511,Markaz Abnob
+2512,Markaz El Fath
+2513,Markaz Sahel Selim
+2514,Markaz El Badary
+2515,New Assiot City
+2599,Surrounded By Desert To Assiot Governorate
+2601,Qesm 1st Sohag
+2602,Qesm 2nd Sohag
+2603,Markaz Sohag
+2604,Markaz El Maragha
+2605,Markaz Gohina El Gharbia
+2606,Qesm Tahta
+2607,Markaz Tahta
+2608,Markaz Tema
+2609,Markaz El Monshaa
+2610,Markaz El Osayrat
+2611,Qesm Gerga
+2612,Markaz Gerga
+2613,Markaz El Bleena
+2614,Markaz Dar El Salam
+2615,Markaz Akhmeem
+2616,Markaz Saqolta
+2617,Qesm El Kawthr
+2618,Markaz New Akhmeem
+2619,Markaz New Sohag
+2692,Surrounded By Desert To Sohag Governorate
+2693,Surrounded By Desert To Markaz El Belena
+2694,Surrounded By Desert To Markaz El Maragha
+2695,Surrounded By Desert To Markaz El Monshaah
+2696,Surrounded By Desert To Markaz Gerga
+2697,Surrounded By Desert To Markaz Jouhayna El Gharbia
+2698,Surrounded By Desert To Markaz Tama
+2699,Surrounded By Desert To Markaz Tahta
+2701,Qesm Qena
+2702,Markaz Qena
+2703,Markaz Deshna
+2704,Markaz El Waqf
+2705,Markaz Nagaa Hamadi
+2706,Markaz Frshout
+2707,Markaz Abo Tesht
+2708,Markaz Qeft
+2709,Markaz Qous
+2710,Markaz Neqada
+2711,New Qena City
+2793,Surrounded By Desert To Qena Governorate
+2794,Surrounded By Desert To Markaz Abu Tesht
+2795,Surrounded By Desert To Markaz El Waqf
+2796,Surrounded By Desert To Markaz Frshout
+2797,Surrounded By Desert To Markaz Qena
+2798,Surrounded By Desert To Markaz Nagaa Hamadi
+2799,Surrounded By Desert To Markaz Neqada
+2801,Qesm 1st Aswan
+2802,Qesm 2nd Aswan
+2803,Markaz Aswan
+2804,New Aswan City
+2805,Markaz Edfo
+2806,Markaz Koum Umbo
+2807,Markaz Nasr
+2808,Markaz Daraw
+2809,Markaz Abo Simbel
+2810,New Toshka City
+2894,Surrounded By Desert To Markaz Aswan
+2895,Surrounded By Desert To Markaz Idfo
+2896,Surrounded By Desert To Markaz Koum Ambo
+2897,Surrounded By Desert To Markaz Nasr
+2898,Surrounded By Desert To Markaz Daraw
+2899,Surrounded By Desert To Markaz Abu Sembel
+2901,Qesm Luxor
+2902,Markaz Luxor
+2903,Markaz Tiba
+2904,Markaz El Qarnah
+2905,Markaz Arment
+2906,Markaz Isna
+2994,Surrounded By Desert To Markaz El Qarna
+2995,Surrounded By Desert To Markaz Armant
+2996,Surrounded By Desert To Markaz Isna
+2999,Surrounded By Desert To Luxor Governorate
+3101,Qesm 1st Hurghada
+3102,Qesm 2nd Hurghada
+3103,Qesm Ras Ghareb
+3104,Qesm Safaga
+3105,Qesm El Qosser
+3106,Qesm Marsa Alem
+3107,Qesm El Shlateen
+3108,Qesm Halayeb
+3195,Surrounded By Desert To Qesm El Qoseer
+3196,Surrounded By Desert To Qesm Marsa Alam
+3197,Surrounded By Desert To Qesm El Shalateen
+3199,Surrounded By Desert To Hurghada City
+3201,Qesm El Kharga
+3202,Markaz Paris
+3203,Markaz Balat
+3204,Markaz El Farafra
+3205,Markaz El Dakhla
+3206,Sharq El Owaynat
+3293,Surrounded By Desert To Markaz Balat
+3294,Surrounded By Desert To Markaz El Farafra
+3295,Surrounded By Desert To Markaz El Dakhla
+3299,Surrounded By Desert To El Wadi El Gidid
+3301,Qesm Marsa Matroh
+3302,Qesm El Negela
+3303,Qesm Sedi Brani
+3304,Qesm El Saloom
+3305,Qesm El Dabaa
+3306,Qesm El Alameen
+3307,Qesm Marina El Alameen El Seyahia
+3308,Qesm El Hamam
+3309,Qesm Siwa
+3310,El Sahel El Shamaly
+3392,Surrounded By Desert To Qesm Marsa Matroh
+3393,Surrounded By Desert To Qesm Siwa
+3394,Surrounded By Desert To Qesm Sedi Barani
+3395,Surrounded By Desert To Qesm El Alameen
+3396,Surrounded By Desert To Qesm El Dabaa
+3397,Surrounded By Desert To Qesm El Saloum
+3398,Surrounded By Desert To Qesm El Dakhla
+3399,Surrounded By Desert To Qesm El Hammam
+3401,Qesm 1st El Areesh
+3402,Qesm 2nd El Areesh
+3403,Qesm 3rd El Areesh
+3404,Qesm 4th El Areesh
+3405,Qesm Bear El Abd
+3406,Qesm Romana
+3407,Qesm El Hasna
+3408,Qesm Nakhl
+3409,Qesm El Qasima
+3410,Qesm El Shekh Zwid
+3411,Qesm Rafah
+3499,Surrounded By Desert To Qesm Romanah
+3499,Surrounded By Desert To Qesm Romanah
+3501,Qesm El Toor
+3502,Qesm Abo Redes
+3503,Qesm Ras Sedr
+3504,Qesm Saint Katreen
+3505,Qesm Nowibaa
+3506,Qesm Taba
+3507,Qesm Dahab
+3508,Qesm 1st Sharm El Sheikh
+3509,Qesm 2nd Sharm El Sheikh
